@@ -1,0 +1,32 @@
+# Create a txt file in R for model
+model {
+
+	for (i in 1:n) {
+
+		diseaseRate[i] ~ dnorm(diseaseRate.hat[i], tau.diseaseRate)
+
+		diseaseRate.hat[i] <- countryVal[country[i]] + vaxFactor*vaxRate[i]
+		#ommitted regionVal[region[country[i]]] + 
+	}
+
+	vaxFactor ~ dunif(-1, 1)
+
+	tau.diseaseRate <- pow(sigma.diseaseRate, -2)
+
+	sigma.diseaseRate ~ dunif(0, 100)
+
+	
+
+	for (countryIdx in 1:numCountries) {
+
+		countryVal[countryIdx] ~ dnorm(mu.country, tau.country)
+
+	}
+	
+	mu.country ~ dunif(0,1)#dnorm(0, 0.01)
+
+	tau.country <- pow(sigma.country, -2)
+
+	sigma.country ~ dunif(0, 100)
+
+}

@@ -1,0 +1,1533 @@
+WHO_REGION,region,country,year,percent_incidence,coverage,prev_percent_incidence,prev_coverage
+AMR,Caribbean,Antigua and Barbuda,2015,0.0,0.98,0.0,0.98
+AMR,South America,Argentina,2015,0.0,0.89,4.65332388088e-08,0.95
+EUR,Western Asia,Armenia,2015,0.0,0.97,0.0,0.97
+WPR,Australia/New Zealand,Australia,2015,7.50970942848e-07,0.91,7.19657443057e-07,0.93
+EUR,Western Europe,Austria,2015,1.17033116861e-07,0.96,1.29154670937e-06,0.96
+EUR,Western Asia,Azerbaijan,2015,0.0,0.98,0.0,0.98
+AMR,Caribbean,Bahamas,2015,0.0,0.94,0.0,0.92
+EMR,Western Asia,Bahrain,2015,7.26089860881e-07,0.99,5.87401701996e-06,0.99
+SEAR,Southern Asia,Bangladesh,2015,1.17394483478e-06,0.88,2.39505886156e-06,0.88
+AMR,Caribbean,Barbados,2015,0.0,0.96,0.0,0.95
+EUR,Eastern Europe,Belarus,2015,1.05309383171e-07,0.99,1.05258504361e-07,0.99
+AMR,Central America,Belize,2015,0.0,0.96,0.0,0.95
+SEAR,Southern Asia,Bhutan,2015,1.29060568125e-06,0.97,0.0,0.97
+AMR,South America,Bolivia (Plurinational State of),2015,0.0,0.99,0.0,0.99
+AMR,South America,Brazil,2015,0.0,0.99,4.85253392043e-09,0.99
+WPR,South-Eastern Asia,Brunei Darussalam,2015,0.0,0.96,0.0,0.97
+EUR,Eastern Europe,Bulgaria,2015,6.99321238806e-07,0.92,9.72045363969e-07,0.93
+AFR,Western Africa,Cabo Verde,2015,0.0,0.95,0.0,0.79
+WPR,South-Eastern Asia,Cambodia,2015,1.15548308822e-06,0.81,1.89194514142e-06,0.8
+AMR,NORTHERN AMERICA,Canada,2015,0.0,0.9,2.80995251461e-08,0.9
+AMR,South America,Chile,2015,0.0,0.96,0.0,0.97
+WPR,Eastern Asia,China,2015,5.91040025074e-06,0.99,8.61157647515e-06,0.99
+AMR,South America,Colombia,2015,0.0,0.94,0.0,0.91
+AMR,Central America,Costa Rica,2015,0.0,0.93,0.0,0.95
+AMR,Caribbean,Cuba,2015,0.0,0.99,0.0,0.99
+EUR,Western Asia,Cyprus,2015,0.0,0.9,0.0,0.86
+EUR,Eastern Europe,Czech Republic,2015,0.0,0.99,9.4852632208e-08,0.99
+AMR,Caribbean,Dominica,2015,0.0,0.96,0.0,0.94
+AMR,Caribbean,Dominican Republic,2015,0.0,0.9,0.0,0.88
+AMR,South America,Ecuador,2015,0.0,0.84,0.0,0.85
+EMR,Northern Africa,Egypt,2015,5.79183827264e-07,0.92,2.34428191129e-07,0.93
+AMR,Central America,El Salvador,2015,0.0,0.95,0.0,0.95
+EUR,Northern Europe,Estonia,2015,0.0,0.93,0.0,0.93
+EUR,Western Asia,Georgia,2015,2.50011875564e-05,0.96,3.69289947135e-05,0.92
+EUR,Western Europe,Germany,2015,1.11539989255e-06,0.97,1.87237449077e-06,0.97
+AFR,Western Africa,Ghana,2015,4.37798181605e-07,0.89,9.70634571017e-07,0.92
+EUR,Southern Europe,Greece,2015,0.0,0.97,0.0,0.97
+AMR,Caribbean,Grenada,2015,0.0,0.99,0.0,0.94
+AMR,Central America,Guatemala,2015,0.0,0.99,0.0,0.67
+AMR,South America,Guyana,2015,0.0,0.99,0.0,0.99
+AMR,Caribbean,Haiti,2015,0.0,0.53,0.0,0.53
+AMR,Central America,Honduras,2015,0.0,0.87,0.0,0.88
+EUR,Eastern Europe,Hungary,2015,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Iceland,2015,0.0,0.93,0.0,0.9
+EMR,Southern Asia,Iran (Islamic Republic of),2015,5.6883346288e-07,0.99,1.79157254512e-07,0.99
+EMR,Western Asia,Iraq,2015,5.49097558163e-08,0.62,2.26800505425e-07,0.6
+EUR,Northern Europe,Ireland,2015,1.27973518013e-06,0.93,6.41689268389e-07,0.93
+EUR,Western Asia,Israel,2015,1.24007321392e-07,0.98,0.0,0.96
+AMR,Caribbean,Jamaica,2015,0.0,0.91,0.0,0.92
+WPR,Eastern Asia,Japan,2015,1.28778951167e-06,0.96,2.5237675812e-06,0.98
+EMR,Western Asia,Jordan,2015,0.0,0.96,1.34842126838e-07,0.98
+EUR,Central Asia,Kazakhstan,2015,1.13473696513e-07,0.99,8.74990357837e-06,0.99
+EMR,Western Asia,Kuwait,2015,2.56929385528e-07,0.93,3.19733981328e-06,0.94
+EUR,Central Asia,Kyrgyzstan,2015,1.68351302029e-05,0.99,4.1070432369e-06,0.96
+WPR,South-Eastern Asia,Lao People's Democratic Republic,2015,6.61568181217e-06,0.88,2.98984946108e-07,0.87
+EUR,Northern Europe,Latvia,2015,0.0,0.96,5.02676753714e-07,0.95
+EMR,Western Asia,Lebanon,2015,1.53826695427e-06,0.75,3.20735553536e-06,0.75
+EUR,Northern Europe,Lithuania,2015,0.0,0.94,0.0,0.93
+WPR,South-Eastern Asia,Malaysia,2015,1.12096497941e-06,0.93,7.69179319109e-06,0.94
+SEAR,Southern Asia,Maldives,2015,8.24946378485e-06,0.99,0.0,0.97
+EUR,Southern Europe,Malta,2015,0.0,0.89,0.0,0.98
+AFR,Eastern Africa,Mauritius,2015,3.92708194249e-06,0.99,4.72973505601e-06,0.98
+AMR,Central America,Mexico,2015,0.0,0.97,0.0,0.97
+WPR,Micronesia,Micronesia (Federated States of),2015,0.0,0.91,0.0,0.91
+WPR,Eastern Asia,Mongolia,2015,9.46224059098e-06,0.98,3.43657964101e-07,0.98
+EMR,Northern Africa,Morocco,2015,1.74532710484e-07,0.99,0.0,0.99
+SEAR,Southern Asia,Nepal,2015,2.19543587819e-05,0.85,2.49869386457e-05,0.88
+WPR,Australia/New Zealand,New Zealand,2015,0.0,0.93,8.89782626104e-07,0.93
+AMR,Central America,Nicaragua,2015,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2015,0.0,0.95,5.82753978753e-07,0.94
+WPR,Micronesia,Palau,2015,0.0,0.95,0.0,0.83
+AMR,Central America,Panama,2015,0.0,0.9,0.0,0.9
+AMR,South America,Paraguay,2015,0.0,0.83,0.0,0.89
+AMR,South America,Peru,2015,0.0,0.92,0.0,0.89
+WPR,South-Eastern Asia,Philippines,2015,1.52930404749e-06,0.82,2.66293613523e-06,0.88
+EUR,Southern Europe,Portugal,2015,0.0,0.98,2.88396649215e-07,0.98
+EMR,Western Asia,Qatar,2015,3.13148665092e-06,0.99,9.20780637825e-06,0.99
+WPR,Eastern Asia,Republic of Korea,2015,5.96499265113e-08,0.98,2.19673126388e-07,0.99
+EUR,Eastern Europe,Republic of Moldova,2015,0.0,0.89,0.0,0.9
+EUR,Eastern Europe,Romania,2015,4.10018389325e-07,0.86,1.52659713865e-06,0.89
+EUR,Eastern Europe,Russian Federation,2015,1.7426834481e-07,0.98,5.01988991939e-07,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2015,0.0,0.95,0.0,0.93
+AMR,Caribbean,Saint Lucia,2015,0.0,0.97,0.0,0.99
+AMR,Caribbean,Saint Vincent and the Grenadines,2015,0.0,0.99,0.0,0.99
+EMR,Western Asia,Saudi Arabia,2015,1.2682159404e-07,0.98,7.44660701827e-07,0.98
+AFR,Western Africa,Senegal,2015,9.91455635335e-07,0.8,6.88359768166e-06,0.8
+EUR,Southern Europe,Serbia,2015,1.12981839299e-06,0.86,2.24900537737e-07,0.86
+AFR,Eastern Africa,Seychelles,2015,0.0,0.98,0.0,0.99
+EUR,Eastern Europe,Slovakia,2015,0.0,0.95,0.0,0.97
+EUR,Southern Europe,Slovenia,2015,0.0,0.94,0.0,0.94
+EUR,Southern Europe,Spain,2015,6.50453040543e-08,0.96,1.08085392648e-07,0.96
+SEAR,Southern Asia,Sri Lanka,2015,4.34467567237e-07,0.99,4.84989807939e-07,0.99
+AMR,South America,Suriname,2015,0.0,0.94,0.0,0.85
+EUR,Northern Europe,Sweden,2015,0.0,0.98,0.0,0.98
+EUR,Western Europe,Switzerland,2015,3.61504146453e-07,0.94,4.87128838271e-07,0.93
+EMR,Western Asia,Syrian Arab Republic,2015,0.0,0.53,2.6634733397e-07,0.54
+EUR,Central Asia,Tajikistan,2015,1.17898668452e-07,0.97,0.0,0.98
+SEAR,South-Eastern Asia,Thailand,2015,3.53152236866e-06,0.99,2.24433814025e-06,0.99
+EUR,Southern Europe,TFYR Macedonia,2015,4.81127763478e-07,0.89,0.0,0.93
+AMR,Caribbean,Trinidad and Tobago,2015,0.0,0.89,0.0,0.96
+EMR,Northern Africa,Tunisia,2015,2.22152120886e-06,0.98,1.52738282952e-06,0.98
+EUR,Western Asia,Turkey,2015,2.03391993703e-07,0.94,3.99877250583e-07,0.94
+EUR,Central Asia,Turkmenistan,2015,0.0,0.99,0.0,0.99
+EMR,Western Asia,United Arab Emirates,2015,1.9329559155e-05,0.94,1.54080830804e-06,0.94
+AFR,Eastern Africa,United Republic of Tanzania,2015,8.41586806313e-07,0.99,1.02078976323e-05,0.99
+AMR,NORTHERN AMERICA,United States of America,2015,1.55388743322e-08,0.92,1.87823625977e-08,0.92
+AMR,South America,Uruguay,2015,0.0,0.96,0.0,0.96
+EUR,Central Asia,Uzbekistan,2015,0.0,0.99,0.0,0.99
+AMR,South America,Venezuela (Bolivarian Republic of),2015,0.0,0.92,0.0,0.89
+AMR,Caribbean,Antigua and Barbuda,2014,0.0,0.98,0.0,0.98
+AMR,South America,Argentina,2014,4.65332388088e-08,0.95,0.0,0.94
+EUR,Western Asia,Armenia,2014,0.0,0.97,1.33681350449e-06,0.97
+WPR,Australia/New Zealand,Australia,2014,7.19657443057e-07,0.93,1.11729586897e-06,0.94
+EUR,Western Asia,Azerbaijan,2014,0.0,0.98,0.0,0.98
+AMR,Caribbean,Bahamas,2014,0.0,0.92,0.0,0.92
+EMR,Western Asia,Bahrain,2014,5.87401701996e-06,0.99,1.4821072601e-06,0.99
+SEAR,Southern Asia,Bangladesh,2014,2.39505886156e-06,0.88,1.93054873207e-05,0.88
+AMR,Caribbean,Barbados,2014,0.0,0.95,0.0,0.87
+EUR,Eastern Europe,Belarus,2014,1.05258504361e-07,0.99,1.05293194164e-07,0.99
+AMR,Central America,Belize,2014,0.0,0.95,0.0,0.99
+SEAR,Southern Asia,Bhutan,2014,0.0,0.97,7.95081098272e-06,0.94
+AMR,South America,Bolivia (Plurinational State of),2014,0.0,0.99,0.0,0.95
+AMR,South America,Brazil,2014,4.85253392043e-09,0.99,0.0,0.99
+EUR,Eastern Europe,Bulgaria,2014,9.72045363969e-07,0.93,1.37882727982e-06,0.95
+AFR,Western Africa,Cabo Verde,2014,0.0,0.79,5.91412687774e-06,0.89
+WPR,South-Eastern Asia,Cambodia,2014,1.89194514142e-06,0.8,6.89721034369e-06,0.76
+AMR,NORTHERN AMERICA,Canada,2014,2.80995251461e-08,0.9,5.67688155272e-08,0.9
+AMR,South America,Chile,2014,0.0,0.97,0.0,0.9
+WPR,Eastern Asia,China,2014,8.61157647515e-06,0.99,1.29026172541e-05,0.96
+AMR,South America,Colombia,2014,0.0,0.91,0.0,0.92
+AMR,Central America,Costa Rica,2014,0.0,0.95,0.0,0.91
+EUR,Western Asia,Cyprus,2014,0.0,0.86,0.000195331318705,0.86
+EUR,Eastern Europe,Czech Republic,2014,9.4852632208e-08,0.99,0.0,0.99
+AMR,Caribbean,Dominica,2014,0.0,0.94,0.0,0.93
+AMR,Caribbean,Dominican Republic,2014,0.0,0.88,0.0,0.83
+AMR,South America,Ecuador,2014,0.0,0.85,0.0,0.97
+EMR,Northern Africa,Egypt,2014,2.34428191129e-07,0.93,3.88066232862e-07,0.96
+AMR,Central America,El Salvador,2014,0.0,0.95,0.0,0.94
+EUR,Northern Europe,Estonia,2014,0.0,0.93,1.51509412522e-06,0.94
+EUR,Western Asia,Georgia,2014,3.69289947135e-05,0.92,5.48652494777e-05,0.97
+AFR,Western Africa,Ghana,2014,9.70634571017e-07,0.92,6.42093101206e-06,0.89
+EUR,Southern Europe,Greece,2014,0.0,0.97,0.0,0.99
+AMR,Caribbean,Grenada,2014,0.0,0.94,0.0,0.94
+AMR,Central America,Guatemala,2014,0.0,0.67,0.0,0.85
+AMR,South America,Guyana,2014,0.0,0.99,0.0,0.99
+AMR,Caribbean,Haiti,2014,0.0,0.53,0.0,0.65
+AMR,Central America,Honduras,2014,0.0,0.88,0.0,0.89
+EUR,Eastern Europe,Hungary,2014,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Iceland,2014,0.0,0.9,0.0,0.91
+EMR,Southern Asia,Iran (Islamic Republic of),2014,1.79157254512e-07,0.99,4.14763238238e-07,0.98
+EMR,Western Asia,Iraq,2014,2.26800505425e-07,0.6,8.79575294137e-07,0.57
+EUR,Northern Europe,Ireland,2014,6.41689268389e-07,0.93,0.0,0.92
+EUR,Western Asia,Israel,2014,0.0,0.96,1.27912896434e-07,0.96
+AMR,Caribbean,Jamaica,2014,0.0,0.92,0.0,0.94
+WPR,Eastern Asia,Japan,2014,2.5237675812e-06,0.98,0.000113076383219,0.95
+EMR,Western Asia,Jordan,2014,1.34842126838e-07,0.98,1.38603404377e-07,0.98
+EUR,Central Asia,Kazakhstan,2014,8.74990357837e-06,0.99,2.10531856101e-06,0.99
+WPR,Micronesia,Kiribati,2014,0.0,0.88,0.0,0.91
+EMR,Western Asia,Kuwait,2014,3.19733981328e-06,0.94,1.11306206156e-06,0.99
+EUR,Central Asia,Kyrgyzstan,2014,4.1070432369e-06,0.96,2.08851837026e-06,0.99
+WPR,South-Eastern Asia,Lao People's Democratic Republic,2014,2.98984946108e-07,0.87,1.26140009331e-05,0.82
+EUR,Northern Europe,Latvia,2014,5.02676753714e-07,0.95,0.0,0.96
+EMR,Western Asia,Lebanon,2014,3.20735553536e-06,0.75,5.10687555679e-06,0.75
+EUR,Northern Europe,Lithuania,2014,0.0,0.93,6.74807089523e-07,0.93
+WPR,South-Eastern Asia,Malaysia,2014,7.69179319109e-06,0.94,3.86216090278e-05,0.95
+SEAR,Southern Asia,Maldives,2014,0.0,0.97,0.0,0.99
+AFR,Eastern Africa,Mauritius,2014,4.72973505601e-06,0.98,7.91414732977e-06,0.99
+AMR,Central America,Mexico,2014,0.0,0.97,0.0,0.89
+WPR,Eastern Asia,Mongolia,2014,3.43657964101e-07,0.98,2.79801480849e-06,0.97
+SEAR,Southern Asia,Nepal,2014,2.49869386457e-05,0.88,2.71241437932e-05,0.88
+EUR,Western Europe,Netherlands,2014,1.18567561575e-07,0.96,3.45049960855e-06,0.96
+WPR,Australia/New Zealand,New Zealand,2014,8.89782626104e-07,0.93,2.23950121829e-07,0.92
+AMR,Central America,Nicaragua,2014,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2014,5.82753978753e-07,0.94,5.90150389991e-07,0.93
+WPR,Micronesia,Palau,2014,0.0,0.83,0.0,0.99
+AMR,Central America,Panama,2014,0.0,0.9,0.0,0.92
+AMR,South America,Paraguay,2014,0.0,0.89,0.0,0.92
+AMR,South America,Peru,2014,0.0,0.89,0.0,0.85
+WPR,South-Eastern Asia,Philippines,2014,2.66293613523e-06,0.88,2.60321437532e-06,0.9
+EUR,Southern Europe,Portugal,2014,2.88396649215e-07,0.98,0.0,0.98
+EMR,Western Asia,Qatar,2014,9.20780637825e-06,0.99,2.76020920482e-05,0.99
+WPR,Eastern Asia,Republic of Korea,2014,2.19673126388e-07,0.99,3.41045235438e-07,0.99
+EUR,Eastern Europe,Republic of Moldova,2014,0.0,0.9,0.0,0.91
+EUR,Eastern Europe,Romania,2014,1.52659713865e-06,0.89,7.32539294418e-06,0.92
+EUR,Eastern Europe,Russian Federation,2014,5.01988991939e-07,0.98,1.62519580819e-06,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2014,0.0,0.93,0.0,0.99
+AMR,Caribbean,Saint Lucia,2014,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Vincent and the Grenadines,2014,0.0,0.99,0.0,0.99
+EMR,Western Asia,Saudi Arabia,2014,7.44660701827e-07,0.98,3.85417063314e-05,0.98
+AFR,Western Africa,Senegal,2014,6.88359768166e-06,0.8,3.09400718935e-06,0.84
+EUR,Southern Europe,Serbia,2014,2.24900537737e-07,0.86,1.23075408303e-06,0.92
+AFR,Eastern Africa,Seychelles,2014,0.0,0.99,0.0,0.97
+EUR,Eastern Europe,Slovakia,2014,0.0,0.97,0.0,0.98
+EUR,Southern Europe,Slovenia,2014,0.0,0.94,0.0,0.94
+EUR,Southern Europe,Spain,2014,1.08085392648e-07,0.96,4.30522680365e-08,0.95
+SEAR,Southern Asia,Sri Lanka,2014,4.84989807939e-07,0.99,1.16947893866e-06,0.99
+AMR,South America,Suriname,2014,0.0,0.85,0.0,0.93
+EUR,Northern Europe,Sweden,2014,0.0,0.98,0.0,0.98
+EUR,Western Europe,Switzerland,2014,4.87128838271e-07,0.93,7.39032753932e-07,0.93
+EMR,Western Asia,Syrian Arab Republic,2014,2.6634733397e-07,0.54,5.17528964802e-08,0.58
+EUR,Central Asia,Tajikistan,2014,0.0,0.98,0.0,0.92
+SEAR,South-Eastern Asia,Thailand,2014,2.24433814025e-06,0.99,7.99093629163e-06,0.99
+EUR,Southern Europe,TFYR Macedonia,2014,0.0,0.93,0.0,0.96
+AMR,Caribbean,Trinidad and Tobago,2014,0.0,0.96,0.0,0.91
+EMR,Northern Africa,Tunisia,2014,1.52738282952e-06,0.98,1.36292887965e-06,0.94
+EUR,Western Asia,Turkey,2014,3.99877250583e-07,0.94,1.0626624496e-06,0.98
+EUR,Central Asia,Turkmenistan,2014,0.0,0.99,0.0,0.99
+AMR,NORTHERN AMERICA,United States of America,2014,1.87823625977e-08,0.92,2.8378999137e-08,0.92
+AMR,South America,Uruguay,2014,0.0,0.96,0.0,0.96
+EUR,Central Asia,Uzbekistan,2014,0.0,0.99,0.0,0.97
+AMR,South America,Venezuela (Bolivarian Republic of),2014,0.0,0.89,0.0,0.85
+EUR,Southern Europe,Albania,2013,0.0,0.99,3.47141463618e-07,0.98
+EUR,Southern Europe,Andorra,2013,0.0,0.95,0.0,0.98
+AMR,Caribbean,Antigua and Barbuda,2013,0.0,0.98,0.0,0.98
+AMR,South America,Argentina,2013,0.0,0.94,2.37556663203e-08,0.94
+EUR,Western Asia,Armenia,2013,1.33681350449e-06,0.97,3.35757502501e-07,0.97
+WPR,Australia/New Zealand,Australia,2013,1.11729586897e-06,0.94,1.5276251365e-06,0.94
+EUR,Western Asia,Azerbaijan,2013,0.0,0.98,0.0,0.94
+AMR,Caribbean,Bahamas,2013,0.0,0.92,0.0,0.91
+EMR,Western Asia,Bahrain,2013,1.4821072601e-06,0.99,2.99944510266e-06,0.99
+SEAR,Southern Asia,Bangladesh,2013,1.93054873207e-05,0.88,2.09007764461e-05,0.17
+AMR,Caribbean,Barbados,2013,0.0,0.87,0.0,0.9
+EUR,Eastern Europe,Belarus,2013,1.05293194164e-07,0.99,1.05363419507e-06,0.98
+AMR,Central America,Belize,2013,0.0,0.99,0.0,0.96
+SEAR,Southern Asia,Bhutan,2013,7.95081098272e-06,0.94,2.68922026059e-06,0.95
+AMR,South America,Bolivia (Plurinational State of),2013,0.0,0.95,0.0,0.96
+AMR,South America,Brazil,2013,0.0,0.99,0.0,0.99
+EUR,Eastern Europe,Bulgaria,2013,1.37882727982e-06,0.95,2.46449079513e-06,0.94
+AFR,Western Africa,Cabo Verde,2013,5.91412687774e-06,0.89,3.59374688043e-05,0.94
+AMR,NORTHERN AMERICA,Canada,2013,5.67688155272e-08,0.9,5.73589364506e-08,0.98
+AMR,South America,Chile,2013,0.0,0.9,0.0,0.9
+WPR,Eastern Asia,China,2013,1.29026172541e-05,0.96,2.96269637243e-05,0.95
+AMR,South America,Colombia,2013,0.0,0.92,2.13305939163e-08,0.94
+AMR,Central America,Costa Rica,2013,0.0,0.91,0.0,0.9
+EUR,Southern Europe,Croatia,2013,2.34109797495e-07,0.94,2.33262266096e-07,0.95
+EUR,Western Asia,Cyprus,2013,0.000195331318705,0.86,0.0,0.86
+EUR,Eastern Europe,Czech Republic,2013,0.0,0.99,5.68981409481e-07,0.98
+EUR,Northern Europe,Denmark,2013,0.0,0.89,0.0,0.9
+AMR,Caribbean,Dominica,2013,0.0,0.93,0.0,0.99
+AMR,Caribbean,Dominican Republic,2013,0.0,0.83,0.0,0.88
+AMR,South America,Ecuador,2013,0.0,0.97,0.0,0.96
+EMR,Northern Africa,Egypt,2013,3.88066232862e-07,0.96,4.08587815444e-07,0.93
+AMR,Central America,El Salvador,2013,0.0,0.94,0.0,0.93
+EUR,Northern Europe,Estonia,2013,1.51509412522e-06,0.94,0.0,0.94
+EUR,Western Asia,Georgia,2013,5.48652494777e-05,0.97,1.81206691601e-05,0.93
+EUR,Southern Europe,Greece,2013,0.0,0.99,0.0,0.99
+AMR,Caribbean,Grenada,2013,0.0,0.94,0.0,0.94
+AMR,Central America,Guatemala,2013,0.0,0.85,0.0,0.93
+AMR,South America,Guyana,2013,0.0,0.99,0.0,0.99
+AMR,Caribbean,Haiti,2013,0.0,0.65,0.0,0.65
+AMR,Central America,Honduras,2013,0.0,0.89,0.0,0.93
+EUR,Eastern Europe,Hungary,2013,0.0,0.99,7.02929105583e-07,0.99
+EUR,Northern Europe,Iceland,2013,0.0,0.91,6.18410067716e-06,0.9
+EMR,Southern Asia,Iran (Islamic Republic of),2013,4.14763238238e-07,0.98,3.93923183404e-07,0.98
+EMR,Western Asia,Iraq,2013,8.79575294137e-07,0.57,6.67523929216e-07,0.68
+EUR,Northern Europe,Ireland,2013,0.0,0.92,2.14230473428e-06,0.92
+EUR,Western Asia,Israel,2013,1.27912896434e-07,0.96,1.29962791653e-07,0.96
+AMR,Caribbean,Jamaica,2013,0.0,0.94,0.0,0.93
+WPR,Eastern Asia,Japan,2013,0.000113076383219,0.95,1.8507183666e-05,0.96
+EMR,Western Asia,Jordan,2013,1.38603404377e-07,0.98,0.0,0.96
+EUR,Central Asia,Kazakhstan,2013,2.10531856101e-06,0.99,7.72822335279e-07,0.96
+WPR,Micronesia,Kiribati,2013,0.0,0.91,0.0,0.91
+EMR,Western Asia,Kuwait,2013,1.11306206156e-06,0.99,3.80163645828e-06,0.99
+EUR,Central Asia,Kyrgyzstan,2013,2.08851837026e-06,0.99,1.06227968762e-06,0.98
+WPR,South-Eastern Asia,Lao People's Democratic Republic,2013,1.26140009331e-05,0.82,1.20499609921e-05,0.72
+EUR,Northern Europe,Latvia,2013,0.0,0.96,3.92717062084e-06,0.9
+EMR,Western Asia,Lebanon,2013,5.10687555679e-06,0.75,6.09228594753e-07,0.75
+EUR,Northern Europe,Lithuania,2013,6.74807089523e-07,0.93,0.0,0.93
+EUR,Western Europe,Luxembourg,2013,0.0,0.99,1.87800480769e-06,0.99
+WPR,South-Eastern Asia,Malaysia,2013,3.86216090278e-05,0.95,2.71863286879e-05,0.95
+SEAR,Southern Asia,Maldives,2013,0.0,0.99,0.0,0.99
+AFR,Eastern Africa,Mauritius,2013,7.91414732977e-06,0.99,7.15227998792e-06,0.99
+AMR,Central America,Mexico,2013,0.0,0.89,1.63839130945e-08,0.99
+WPR,Eastern Asia,Mongolia,2013,2.79801480849e-06,0.97,8.5459737781e-05,0.99
+EUR,Southern Europe,Montenegro,2013,0.0,0.88,0.0,0.9
+EUR,Western Europe,Netherlands,2013,3.45049960855e-06,0.96,5.97039163381e-08,0.96
+WPR,Australia/New Zealand,New Zealand,2013,2.23950121829e-07,0.92,9.01737648449e-07,0.92
+AMR,Central America,Nicaragua,2013,0.0,0.99,0.0,0.99
+WPR,Polynesia,Niue,2013,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2013,5.90150389991e-07,0.93,1.99267889773e-07,0.94
+EMR,Western Asia,Oman,2013,0.0,0.99,3.66694027683e-06,0.99
+WPR,Micronesia,Palau,2013,0.0,0.99,0.0,0.91
+AMR,Central America,Panama,2013,0.0,0.92,0.0,0.98
+AMR,South America,Paraguay,2013,0.0,0.92,0.0,0.91
+AMR,South America,Peru,2013,0.0,0.85,0.0,0.94
+WPR,South-Eastern Asia,Philippines,2013,2.60321437532e-06,0.9,1.04147876654e-06,0.85
+EUR,Eastern Europe,Poland,2013,0.000998117492303,0.98,0.000162214004899,0.98
+EUR,Southern Europe,Portugal,2013,0.0,0.98,2.85306162042e-07,0.97
+EMR,Western Asia,Qatar,2013,2.76020920482e-05,0.99,9.92250523412e-06,0.97
+WPR,Eastern Asia,Republic of Korea,2013,3.41045235438e-07,0.99,5.44262116635e-07,0.99
+EUR,Eastern Europe,Republic of Moldova,2013,0.0,0.91,7.36241487208e-07,0.91
+EUR,Eastern Europe,Romania,2013,7.32539294418e-06,0.92,0.00104347215711,0.94
+EUR,Eastern Europe,Russian Federation,2013,1.62519580819e-06,0.98,6.99991080871e-06,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2013,0.0,0.99,0.0,0.95
+AMR,Caribbean,Saint Lucia,2013,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Vincent and the Grenadines,2013,0.0,0.99,0.0,0.94
+EMR,Western Asia,Saudi Arabia,2013,3.85417063314e-05,0.98,6.10251203127e-07,0.98
+EUR,Southern Europe,Serbia,2013,1.23075408303e-06,0.92,1.55857225875e-06,0.87
+AFR,Eastern Africa,Seychelles,2013,0.0,0.97,0.0,0.98
+WPR,South-Eastern Asia,Singapore,2013,8.88064961952e-06,0.95,1.20765654248e-05,0.95
+EUR,Eastern Europe,Slovakia,2013,0.0,0.98,0.0,0.99
+EUR,Southern Europe,Slovenia,2013,0.0,0.94,0.0,0.95
+EUR,Southern Europe,Spain,2013,4.30522680365e-08,0.95,1.37229860875e-06,0.97
+SEAR,Southern Asia,Sri Lanka,2013,1.16947893866e-06,0.99,2.6442253546e-06,0.99
+AMR,South America,Suriname,2013,0.0,0.93,0.0,0.73
+EUR,Northern Europe,Sweden,2013,0.0,0.98,5.23918997932e-06,0.98
+EUR,Western Europe,Switzerland,2013,7.39032753932e-07,0.93,1.24647403657e-06,0.93
+EMR,Western Asia,Syrian Arab Republic,2013,5.17528964802e-08,0.58,5.00531564522e-08,0.61
+EUR,Central Asia,Tajikistan,2013,0.0,0.92,1.26088617602e-07,0.94
+SEAR,South-Eastern Asia,Thailand,2013,7.99093629163e-06,0.99,7.34022758874e-06,0.98
+EUR,Southern Europe,TFYR Macedonia,2013,0.0,0.96,1.93304885298e-06,0.96
+WPR,Polynesia,Tonga,2013,0.0,0.67,0.0,0.62
+AMR,Caribbean,Trinidad and Tobago,2013,0.0,0.91,0.0,0.85
+EMR,Northern Africa,Tunisia,2013,1.36292887965e-06,0.94,5.65182029968e-05,0.96
+EUR,Western Asia,Turkey,2013,1.0626624496e-06,0.98,5.74488514839e-07,0.96
+EUR,Central Asia,Turkmenistan,2013,0.0,0.99,0.0,0.99
+AMR,NORTHERN AMERICA,United States of America,2013,2.8378999137e-08,0.92,2.85896288199e-08,0.91
+AMR,South America,Uruguay,2013,0.0,0.96,0.0,0.96
+AMR,South America,Venezuela (Bolivarian Republic of),2013,0.0,0.85,0.0,0.87
+EUR,Southern Europe,Albania,2012,3.47141463618e-07,0.98,1.7324957294e-06,0.99
+EUR,Southern Europe,Andorra,2012,0.0,0.98,0.0,0.99
+AMR,Caribbean,Antigua and Barbuda,2012,0.0,0.98,0.0,0.99
+AMR,South America,Argentina,2012,2.37556663203e-08,0.94,2.40063645674e-08,0.95
+EUR,Western Asia,Armenia,2012,3.35757502501e-07,0.97,0.0,0.97
+WPR,Australia/New Zealand,Australia,2012,1.5276251365e-06,0.94,2.66165447555e-06,0.94
+EUR,Western Europe,Austria,2012,2.72012943085e-06,0.88,2.37429305424e-07,0.84
+EUR,Western Asia,Azerbaijan,2012,0.0,0.94,0.0,0.92
+AMR,Caribbean,Bahamas,2012,0.0,0.91,0.0,0.9
+EMR,Western Asia,Bahrain,2012,2.99944510266e-06,0.99,2.29707276361e-06,0.99
+AMR,Caribbean,Barbados,2012,0.0,0.9,0.0,0.93
+EUR,Eastern Europe,Belarus,2012,1.05363419507e-06,0.98,2.10799911886e-06,0.99
+AMR,Central America,Belize,2012,0.0,0.96,0.0,0.98
+SEAR,Southern Asia,Bhutan,2012,2.68922026059e-06,0.95,4.09696142028e-06,0.95
+AMR,South America,Bolivia (Plurinational State of),2012,0.0,0.96,0.0,0.96
+EUR,Southern Europe,Bosnia and Herzegovina,2012,4.44047413816e-06,0.94,8.089115964e-06,0.89
+AMR,South America,Brazil,2012,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Brunei Darussalam,2012,2.46603043082e-06,0.99,5.00700981374e-06,0.91
+EUR,Eastern Europe,Bulgaria,2012,2.46449079513e-06,0.94,5.57426484284e-06,0.95
+AFR,Western Africa,Cabo Verde,2012,3.59374688043e-05,0.94,2.01954923661e-05,0.99
+AMR,NORTHERN AMERICA,Canada,2012,5.73589364506e-08,0.98,2.89855828609e-08,0.88
+AMR,South America,Chile,2012,0.0,0.9,5.81351071517e-08,0.91
+WPR,Eastern Asia,China,2012,2.96269637243e-05,0.95,4.86205613386e-05,0.86
+AMR,South America,Colombia,2012,2.13305939163e-08,0.94,2.15487286789e-08,0.88
+WPR,Polynesia,Cook Islands,2012,0.0,0.97,0.0,0.89
+AMR,Central America,Costa Rica,2012,0.0,0.9,0.0,0.83
+EUR,Southern Europe,Croatia,2012,2.33262266096e-07,0.95,0.0,0.96
+AMR,Caribbean,Cuba,2012,0.0,0.99,0.0,0.99
+EUR,Western Asia,Cyprus,2012,0.0,0.86,0.0,0.87
+EUR,Eastern Europe,Czech Republic,2012,5.68981409481e-07,0.98,2.56313134909e-06,0.98
+EUR,Northern Europe,Denmark,2012,0.0,0.9,0.0,0.87
+AMR,Caribbean,Dominica,2012,0.0,0.99,0.0,0.99
+AMR,Caribbean,Dominican Republic,2012,0.0,0.88,0.0,0.87
+AMR,South America,Ecuador,2012,0.0,0.96,0.0,0.94
+EMR,Northern Africa,Egypt,2012,4.08587815444e-07,0.93,3.58048079412e-07,0.96
+AMR,Central America,El Salvador,2012,0.0,0.93,0.0,0.89
+EUR,Northern Europe,Estonia,2012,0.0,0.94,0.0,0.94
+EUR,Western Asia,Georgia,2012,1.81206691601e-05,0.93,1.52511676675e-05,0.91
+EUR,Southern Europe,Greece,2012,0.0,0.99,0.0,0.99
+AMR,Caribbean,Grenada,2012,0.0,0.94,0.0,0.95
+AMR,Central America,Guatemala,2012,0.0,0.93,0.0,0.89
+AMR,South America,Guyana,2012,0.0,0.99,0.0,0.98
+AMR,Caribbean,Haiti,2012,0.0,0.65,0.0,0.65
+AMR,Central America,Honduras,2012,0.0,0.93,0.0,0.95
+EUR,Eastern Europe,Hungary,2012,7.02929105583e-07,0.99,3.00334873384e-07,0.99
+EUR,Northern Europe,Iceland,2012,6.18410067716e-06,0.9,0.0,0.94
+EMR,Southern Asia,Iran (Islamic Republic of),2012,3.93923183404e-07,0.98,2.66012913331e-07,0.99
+EMR,Western Asia,Iraq,2012,6.67523929216e-07,0.68,5.64834177237e-07,0.77
+EUR,Northern Europe,Ireland,2012,2.14230473428e-06,0.92,1.2895710242e-06,0.92
+EUR,Western Asia,Israel,2012,1.29962791653e-07,0.96,1.32216893881e-07,0.97
+EUR,Southern Europe,Italy,2012,1.4228865782e-06,0.9,1.40753052289e-06,0.9
+AMR,Caribbean,Jamaica,2012,0.0,0.93,0.0,0.88
+WPR,Eastern Asia,Japan,2012,1.8507183666e-05,0.96,2.89973745196e-06,0.94
+EMR,Western Asia,Jordan,2012,0.0,0.96,1.47920897821e-07,0.95
+EUR,Central Asia,Kazakhstan,2012,7.72822335279e-07,0.96,2.65791808901e-06,0.99
+WPR,Micronesia,Kiribati,2012,0.0,0.91,0.0,0.9
+EMR,Western Asia,Kuwait,2012,3.80163645828e-06,0.99,1.17313641107e-05,0.99
+EUR,Central Asia,Kyrgyzstan,2012,1.06227968762e-06,0.98,5.40167776111e-07,0.97
+EUR,Northern Europe,Latvia,2012,3.92717062084e-06,0.9,9.69151895177e-07,0.92
+EMR,Western Asia,Lebanon,2012,6.09228594753e-07,0.75,8.71137051637e-07,0.75
+EUR,Northern Europe,Lithuania,2012,0.0,0.93,0.0,0.94
+EUR,Western Europe,Luxembourg,2012,1.87800480769e-06,0.99,0.0,0.96
+WPR,South-Eastern Asia,Malaysia,2012,2.71863286879e-05,0.95,1.30892938326e-05,0.95
+SEAR,Southern Asia,Maldives,2012,0.0,0.99,2.9531628374e-06,0.96
+WPR,Micronesia,Marshall Islands,2012,0.0,0.78,0.0,0.88
+AFR,Eastern Africa,Mauritius,2012,7.15227998792e-06,0.99,3.19210910629e-06,0.99
+AMR,Central America,Mexico,2012,1.63839130945e-08,0.99,0.0,0.98
+WPR,Eastern Asia,Mongolia,2012,8.5459737781e-05,0.99,4.71173257656e-06,0.98
+EUR,Southern Europe,Montenegro,2012,0.0,0.9,0.0,0.91
+EUR,Western Europe,Netherlands,2012,5.97039163381e-08,0.96,1.19833240063e-07,0.96
+WPR,Australia/New Zealand,New Zealand,2012,9.01737648449e-07,0.92,4.99491426911e-06,0.93
+AMR,Central America,Nicaragua,2012,0.0,0.99,0.0,0.99
+WPR,Polynesia,Niue,2012,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2012,1.99267889773e-07,0.94,4.03718245037e-07,0.93
+EMR,Western Asia,Oman,2012,3.66694027683e-06,0.99,3.11526479751e-07,0.99
+WPR,Micronesia,Palau,2012,0.0,0.91,0.0,0.85
+AMR,Central America,Panama,2012,0.0,0.98,0.0,0.97
+AMR,South America,Paraguay,2012,0.0,0.91,0.0,0.93
+AMR,South America,Peru,2012,0.0,0.94,0.0,0.96
+WPR,South-Eastern Asia,Philippines,2012,1.04147876654e-06,0.85,9.79881425882e-06,0.79
+EUR,Southern Europe,Portugal,2012,2.85306162042e-07,0.97,0.0,0.97
+EMR,Western Asia,Qatar,2012,9.92250523412e-06,0.97,8.3970106642e-06,0.98
+WPR,Eastern Asia,Republic of Korea,2012,5.44262116635e-07,0.99,1.07381593053e-06,0.99
+EUR,Eastern Europe,Republic of Moldova,2012,7.36241487208e-07,0.91,0.0,0.91
+EUR,Eastern Europe,Romania,2012,0.00104347215711,0.94,0.000173730065047,0.93
+EUR,Eastern Europe,Russian Federation,2012,6.99991080871e-06,0.98,2.43695547312e-06,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2012,0.0,0.95,0.0,0.99
+AMR,Caribbean,Saint Lucia,2012,0.0,0.99,0.0,0.91
+AMR,Caribbean,Saint Vincent and the Grenadines,2012,0.0,0.94,0.0,0.97
+WPR,Polynesia,Samoa,2012,0.0,0.76,5.33532518807e-06,0.59
+EUR,Southern Europe,San Marino,2012,0.0,0.87,0.0,0.83
+EUR,Southern Europe,Serbia,2012,1.55857225875e-06,0.87,1.55143907056e-06,0.93
+AFR,Eastern Africa,Seychelles,2012,0.0,0.98,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2012,1.20765654248e-05,0.95,2.11918692577e-05,0.95
+EUR,Eastern Europe,Slovakia,2012,0.0,0.99,0.0,0.98
+EUR,Southern Europe,Slovenia,2012,0.0,0.95,0.0,0.96
+EUR,Southern Europe,Spain,2012,1.37229860875e-06,0.97,6.42283171089e-07,0.97
+SEAR,Southern Asia,Sri Lanka,2012,2.6442253546e-06,0.99,2.04768043584e-05,0.99
+AMR,South America,Suriname,2012,0.0,0.73,0.0,0.85
+EUR,Northern Europe,Sweden,2012,5.23918997932e-06,0.98,4.22727969268e-07,0.97
+EUR,Western Europe,Switzerland,2012,1.24647403657e-06,0.93,1.13553062715e-06,0.93
+EMR,Western Asia,Syrian Arab Republic,2012,5.00531564522e-08,0.61,3.41443927347e-07,0.8
+EUR,Central Asia,Tajikistan,2012,1.26088617602e-07,0.94,0.0,0.98
+SEAR,South-Eastern Asia,Thailand,2012,7.34022758874e-06,0.98,7.7276102582e-06,0.98
+EUR,Southern Europe,TFYR Macedonia,2012,1.93304885298e-06,0.96,3.87242302349e-06,0.97
+WPR,Polynesia,Tonga,2012,0.0,0.62,0.0,0.66
+AMR,Caribbean,Trinidad and Tobago,2012,0.0,0.85,0.0,0.92
+EUR,Western Asia,Turkey,2012,5.74488514839e-07,0.96,2.35863813812e-05,0.98
+EUR,Central Asia,Turkmenistan,2012,0.0,0.99,0.0,0.99
+WPR,Polynesia,Tuvalu,2012,0.0,0.98,0.0,0.98
+EUR,Eastern Europe,Ukraine,2012,4.30715391345e-05,0.79,8.06329433179e-05,0.67
+AMR,NORTHERN AMERICA,United States of America,2012,2.85896288199e-08,0.91,1.28044920207e-08,0.92
+AMR,South America,Uruguay,2012,0.0,0.96,0.0,0.95
+AMR,South America,Venezuela (Bolivarian Republic of),2012,0.0,0.87,0.0,0.86
+EUR,Southern Europe,Albania,2011,1.7324957294e-06,0.99,1.72302093815e-06,0.99
+EUR,Southern Europe,Andorra,2011,0.0,0.99,0.0,0.99
+AMR,Caribbean,Antigua and Barbuda,2011,0.0,0.99,0.0,0.98
+AMR,South America,Argentina,2011,2.40063645674e-08,0.95,0.0,0.95
+EUR,Western Asia,Armenia,2011,0.0,0.97,0.0,0.97
+WPR,Australia/New Zealand,Australia,2011,2.66165447555e-06,0.94,1.89506227987e-06,0.94
+EUR,Western Europe,Austria,2011,2.37429305424e-07,0.84,2.38322495618e-07,0.8
+EUR,Western Asia,Azerbaijan,2011,0.0,0.92,1.09891438248e-07,0.89
+AMR,Caribbean,Bahamas,2011,0.0,0.9,0.0,0.94
+EMR,Western Asia,Bahrain,2011,2.29707276361e-06,0.99,4.75692132052e-06,0.99
+AMR,Caribbean,Barbados,2011,0.0,0.93,0.0,0.85
+EUR,Eastern Europe,Belarus,2011,2.10799911886e-06,0.99,0.0,0.99
+AMR,Central America,Belize,2011,0.0,0.98,0.0,0.98
+SEAR,Southern Asia,Bhutan,2011,4.09696142028e-06,0.95,1.24956612287e-05,0.95
+AMR,South America,Bolivia (Plurinational State of),2011,0.0,0.96,0.0,0.88
+EUR,Southern Europe,Bosnia and Herzegovina,2011,8.089115964e-06,0.89,0.000725896027909,0.91
+AMR,South America,Brazil,2011,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Brunei Darussalam,2011,5.00700981374e-06,0.91,2.54258835495e-06,0.94
+EUR,Eastern Europe,Bulgaria,2011,5.57426484284e-06,0.95,5.26507634361e-06,0.97
+AMR,NORTHERN AMERICA,Canada,2011,2.89855828609e-08,0.88,3.51636295547e-07,0.9
+AMR,South America,Chile,2011,5.81351071517e-08,0.91,0.0,0.93
+WPR,Eastern Asia,China,2011,4.86205613386e-05,0.86,3.21536205236e-05,0.62
+AMR,South America,Colombia,2011,2.15487286789e-08,0.88,0.0,0.88
+WPR,Polynesia,Cook Islands,2011,0.0,0.89,0.0,0.99
+AMR,Central America,Costa Rica,2011,0.0,0.83,0.0,0.83
+EUR,Southern Europe,Croatia,2011,0.0,0.96,2.3167293342e-07,0.96
+AMR,Caribbean,Cuba,2011,0.0,0.99,0.0,0.99
+EUR,Western Asia,Cyprus,2011,0.0,0.87,0.0,0.87
+EUR,Eastern Europe,Czech Republic,2011,2.56313134909e-06,0.98,3.8071235088e-07,0.98
+EUR,Northern Europe,Denmark,2011,0.0,0.87,0.0,0.85
+AMR,Caribbean,Dominica,2011,0.0,0.99,0.0,0.99
+AMR,Caribbean,Dominican Republic,2011,0.0,0.87,0.0,0.85
+AMR,South America,Ecuador,2011,0.0,0.94,0.0,0.95
+EMR,Northern Africa,Egypt,2011,3.58048079412e-07,0.96,5.61914233361e-06,0.96
+AMR,Central America,El Salvador,2011,0.0,0.89,0.0,0.92
+EUR,Northern Europe,Estonia,2011,0.0,0.94,0.0,0.95
+EUR,Northern Europe,Finland,2011,3.70657286566e-07,0.97,0.0,0.98
+EUR,Western Asia,Georgia,2011,1.52511676675e-05,0.91,1.38819283175e-05,0.94
+EUR,Southern Europe,Greece,2011,0.0,0.99,0.0,0.99
+AMR,Caribbean,Grenada,2011,0.0,0.95,0.0,0.95
+AMR,Central America,Guatemala,2011,0.0,0.89,0.0,0.93
+AMR,South America,Guyana,2011,0.0,0.98,0.0,0.95
+AMR,Caribbean,Haiti,2011,0.0,0.65,0.0,0.64
+AMR,Central America,Honduras,2011,0.0,0.95,0.0,0.98
+EUR,Eastern Europe,Hungary,2011,3.00334873384e-07,0.99,0.0,0.99
+EUR,Northern Europe,Iceland,2011,0.0,0.94,0.0,0.93
+EMR,Southern Asia,Iran (Islamic Republic of),2011,2.66012913331e-07,0.99,3.23217653286e-07,0.99
+EMR,Western Asia,Iraq,2011,5.64834177237e-07,0.77,4.85937613385e-07,0.77
+EUR,Northern Europe,Ireland,2011,1.2895710242e-06,0.92,6.28068602417e-06,0.9
+EUR,Western Asia,Israel,2011,1.32216893881e-07,0.97,1.34764169442e-07,0.96
+EUR,Southern Europe,Italy,2011,1.40753052289e-06,0.9,7.88749280266e-07,0.91
+AMR,Caribbean,Jamaica,2011,0.0,0.88,0.0,0.89
+WPR,Eastern Asia,Japan,2011,2.89973745196e-06,0.94,6.99027174092e-07,0.94
+EMR,Western Asia,Jordan,2011,1.47920897821e-07,0.95,0.0,0.95
+EUR,Central Asia,Kazakhstan,2011,2.65791808901e-06,0.99,1.83929243646e-07,0.99
+WPR,Micronesia,Kiribati,2011,0.0,0.9,0.0,0.89
+EMR,Western Asia,Kuwait,2011,1.17313641107e-05,0.99,8.49820393728e-06,0.98
+EUR,Central Asia,Kyrgyzstan,2011,5.40167776111e-07,0.97,3.65994030637e-07,0.99
+EUR,Northern Europe,Latvia,2011,9.69151895177e-07,0.92,0.0,0.95
+EMR,Western Asia,Lebanon,2011,8.71137051637e-07,0.75,1.15282811794e-06,0.75
+EUR,Northern Europe,Lithuania,2011,0.0,0.94,6.40442673976e-07,0.96
+EUR,Western Europe,Luxembourg,2011,0.0,0.96,0.0,0.96
+WPR,South-Eastern Asia,Malaysia,2011,1.30892938326e-05,0.95,3.6985010402e-06,0.95
+SEAR,Southern Asia,Maldives,2011,2.9531628374e-06,0.96,1.202718143e-05,0.96
+EUR,Southern Europe,Malta,2011,2.41499227202e-06,0.84,0.0,0.73
+WPR,Micronesia,Marshall Islands,2011,0.0,0.88,0.0,0.97
+AFR,Eastern Africa,Mauritius,2011,3.19210910629e-06,0.99,1.60262831043e-06,0.99
+AMR,Central America,Mexico,2011,0.0,0.98,0.0,0.95
+WPR,Eastern Asia,Mongolia,2011,4.71173257656e-06,0.98,4.05506034667e-06,0.97
+EUR,Southern Europe,Montenegro,2011,0.0,0.91,4.82353886968e-06,0.9
+EUR,Western Europe,Netherlands,2011,1.19833240063e-07,0.96,0.0,0.96
+WPR,Australia/New Zealand,New Zealand,2011,4.99491426911e-06,0.93,4.57767513613e-07,0.91
+AMR,Central America,Nicaragua,2011,0.0,0.99,0.0,0.99
+WPR,Polynesia,Niue,2011,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2011,4.03718245037e-07,0.93,0.0,0.93
+EMR,Western Asia,Oman,2011,3.11526479751e-07,0.99,6.7940552017e-07,0.99
+WPR,Micronesia,Palau,2011,0.0,0.85,0.0,0.39
+AMR,Central America,Panama,2011,0.0,0.97,0.0,0.97
+AMR,South America,Paraguay,2011,0.0,0.93,0.0,0.94
+AMR,South America,Peru,2011,0.0,0.96,0.0,0.94
+EUR,Southern Europe,Portugal,2011,0.0,0.97,0.0,0.96
+EMR,Western Asia,Qatar,2011,8.3970106642e-06,0.98,1.30273971827e-05,0.99
+WPR,Eastern Asia,Republic of Korea,2011,1.07381593053e-06,0.99,4.27785351163e-07,0.98
+EUR,Eastern Europe,Republic of Moldova,2011,0.0,0.91,0.0,0.97
+EUR,Eastern Europe,Romania,2011,0.000173730065047,0.93,1.72423645883e-05,0.95
+EUR,Eastern Europe,Russian Federation,2011,2.43695547312e-06,0.98,3.82095040378e-06,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2011,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Lucia,2011,0.0,0.91,0.0,0.95
+AMR,Caribbean,Saint Vincent and the Grenadines,2011,0.0,0.97,0.0,0.99
+WPR,Polynesia,Samoa,2011,5.33532518807e-06,0.59,0.0,0.56
+EUR,Southern Europe,San Marino,2011,0.0,0.83,0.0,0.68
+EUR,Southern Europe,Serbia,2011,1.55143907056e-06,0.93,1.54541591006e-06,0.95
+AFR,Eastern Africa,Seychelles,2011,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2011,2.11918692577e-05,0.95,3.11087309213e-05,0.95
+EUR,Eastern Europe,Slovakia,2011,0.0,0.98,0.0,0.98
+EUR,Southern Europe,Slovenia,2011,0.0,0.96,0.0,0.95
+EUR,Southern Europe,Spain,2011,6.42283171089e-07,0.97,1.93126872124e-07,0.95
+SEAR,Southern Asia,Sri Lanka,2011,2.04768043584e-05,0.99,3.36611833589e-06,0.99
+AMR,South America,Suriname,2011,0.0,0.85,0.0,0.9
+EUR,Northern Europe,Sweden,2011,4.22727969268e-07,0.97,3.19751020539e-07,0.97
+EUR,Western Europe,Switzerland,2011,1.13553062715e-06,0.93,1.53246331985e-06,0.92
+EMR,Western Asia,Syrian Arab Republic,2011,3.41443927347e-07,0.8,9.65223014778e-07,0.82
+EUR,Central Asia,Tajikistan,2011,0.0,0.98,7.91379242122e-07,0.94
+SEAR,South-Eastern Asia,Thailand,2011,7.7276102582e-06,0.98,5.80279319775e-06,0.98
+EUR,Southern Europe,TFYR Macedonia,2011,3.87242302349e-06,0.97,1.45458776983e-06,0.98
+WPR,Polynesia,Tonga,2011,0.0,0.66,0.0,0.68
+AMR,Caribbean,Trinidad and Tobago,2011,0.0,0.92,0.0,0.92
+EUR,Western Asia,Turkey,2011,2.35863813812e-05,0.98,8.85072995012e-07,0.97
+EUR,Central Asia,Turkmenistan,2011,0.0,0.99,0.0,0.99
+WPR,Polynesia,Tuvalu,2011,0.0,0.98,0.0,0.85
+EUR,Eastern Europe,Ukraine,2011,8.06329433179e-05,0.67,5.11090421162e-05,0.56
+AMR,NORTHERN AMERICA,United States of America,2011,1.28044920207e-08,0.92,1.61354776006e-08,0.92
+AMR,South America,Uruguay,2011,0.0,0.95,0.0,0.95
+EUR,Central Asia,Uzbekistan,2011,8.16807773169e-07,0.99,3.60493385667e-08,0.98
+AMR,South America,Venezuela (Bolivarian Republic of),2011,0.0,0.86,0.0,0.79
+EUR,Southern Europe,Albania,2010,1.72302093815e-06,0.99,0.0,0.97
+EUR,Southern Europe,Andorra,2010,0.0,0.99,0.0,0.98
+AMR,Caribbean,Antigua and Barbuda,2010,0.0,0.98,0.0,0.99
+AMR,South America,Argentina,2010,0.0,0.95,9.80424837691e-08,0.96
+EUR,Western Asia,Armenia,2010,0.0,0.97,1.34856765258e-06,0.96
+WPR,Australia/New Zealand,Australia,2010,1.89506227987e-06,0.94,1.14833291917e-06,0.94
+EUR,Western Europe,Austria,2010,2.38322495618e-07,0.8,3.01386377336e-05,0.76
+AMR,Caribbean,Bahamas,2010,0.0,0.94,0.0,0.98
+EMR,Western Asia,Bahrain,2010,4.75692132052e-06,0.99,7.52024198468e-06,0.99
+AMR,Caribbean,Barbados,2010,0.0,0.85,0.0,0.94
+EUR,Eastern Europe,Belarus,2010,0.0,0.99,3.15612730555e-07,0.99
+AMR,Central America,Belize,2010,0.0,0.98,0.0,0.97
+SEAR,Southern Asia,Bhutan,2010,1.24956612287e-05,0.95,2.11915290395e-05,0.94
+AMR,South America,Bolivia (Plurinational State of),2010,0.0,0.88,0.0,0.93
+EUR,Southern Europe,Bosnia and Herzegovina,2010,0.000725896027909,0.91,0.000136278477121,0.93
+AMR,South America,Brazil,2010,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Brunei Darussalam,2010,2.54258835495e-06,0.94,2.58344528263e-06,0.99
+EUR,Eastern Europe,Bulgaria,2010,5.26507634361e-06,0.97,5.89807588679e-06,0.96
+AMR,NORTHERN AMERICA,Canada,2010,3.51636295547e-07,0.9,2.07428549754e-07,0.91
+AMR,South America,Chile,2010,0.0,0.93,0.0,0.93
+AMR,South America,Colombia,2010,0.0,0.88,8.80741443377e-08,0.89
+WPR,Polynesia,Cook Islands,2010,0.0,0.99,0.0,0.78
+AMR,Central America,Costa Rica,2010,0.0,0.83,0.0,0.81
+EUR,Southern Europe,Croatia,2010,2.3167293342e-07,0.96,0.0,0.95
+AMR,Caribbean,Cuba,2010,0.0,0.99,0.0,0.99
+EUR,Western Asia,Cyprus,2010,0.0,0.87,0.0,0.87
+EUR,Eastern Europe,Czech Republic,2010,3.8071235088e-07,0.98,5.73612669957e-07,0.98
+AMR,Caribbean,Dominica,2010,0.0,0.99,0.0,0.99
+AMR,Caribbean,Dominican Republic,2010,0.0,0.85,0.0,0.84
+AMR,South America,Ecuador,2010,0.0,0.95,0.0,0.97
+EMR,Northern Africa,Egypt,2010,5.61914233361e-06,0.96,7.55819937834e-06,0.95
+AMR,Central America,El Salvador,2010,0.0,0.92,0.0,0.91
+EUR,Northern Europe,Estonia,2010,0.0,0.95,7.48497391487e-07,0.95
+WPR,Melanesia,Fiji,2010,0.0,0.94,1.17391559547e-06,0.94
+EUR,Northern Europe,Finland,2010,0.0,0.98,0.0,0.98
+EUR,Western Asia,Georgia,2010,1.38819283175e-05,0.94,1.5586506273e-05,0.83
+EUR,Southern Europe,Greece,2010,0.0,0.99,3.5779999517e-07,0.99
+AMR,Caribbean,Grenada,2010,0.0,0.95,0.0,0.98
+AMR,Central America,Guatemala,2010,0.0,0.93,0.0,0.92
+AMR,South America,Guyana,2010,0.0,0.95,0.0,0.97
+AMR,Caribbean,Haiti,2010,0.0,0.64,0.0,0.63
+AMR,Central America,Honduras,2010,0.0,0.98,0.0,0.99
+EUR,Eastern Europe,Hungary,2010,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Iceland,2010,0.0,0.93,0.0,0.92
+EMR,Southern Asia,Iran (Islamic Republic of),2010,3.23217653286e-07,0.99,1.49923034966e-07,0.99
+EMR,Western Asia,Iraq,2010,4.85937613385e-07,0.77,5.57212177388e-06,0.87
+EUR,Northern Europe,Ireland,2010,6.28068602417e-06,0.9,5.0454086781e-06,0.9
+EUR,Western Asia,Israel,2010,1.34764169442e-07,0.96,8.26109465012e-07,0.96
+EUR,Southern Europe,Italy,2010,7.88749280266e-07,0.91,1.78249522426e-06,0.9
+AMR,Caribbean,Jamaica,2010,0.0,0.89,0.0,0.88
+WPR,Eastern Asia,Japan,2010,6.99027174092e-07,0.94,1.16223478273e-06,0.94
+EMR,Western Asia,Jordan,2010,0.0,0.95,3.19138581142e-07,0.9
+EUR,Central Asia,Kazakhstan,2010,1.83929243646e-07,0.99,3.86374761156e-05,0.99
+WPR,Micronesia,Kiribati,2010,0.0,0.89,0.0,0.82
+EUR,Central Asia,Kyrgyzstan,2010,3.65994030637e-07,0.99,2.60208054926e-06,0.99
+EUR,Northern Europe,Latvia,2010,0.0,0.95,3.30608177357e-06,0.92
+EMR,Western Asia,Lebanon,2010,1.15282811794e-06,0.75,5.02183301688e-06,0.75
+EUR,Northern Europe,Lithuania,2010,6.40442673976e-07,0.96,0.0,0.96
+EUR,Western Europe,Luxembourg,2010,0.0,0.96,0.0,0.96
+SEAR,Southern Asia,Maldives,2010,1.202718143e-05,0.96,0.0,0.96
+EUR,Southern Europe,Malta,2010,0.0,0.73,0.0,0.82
+WPR,Micronesia,Marshall Islands,2010,0.0,0.97,0.0,0.78
+AFR,Eastern Africa,Mauritius,2010,1.60262831043e-06,0.99,1.60907518404e-06,0.99
+AMR,Central America,Mexico,2010,0.0,0.95,0.0,0.96
+WPR,Eastern Asia,Mongolia,2010,4.05506034667e-06,0.97,1.12377648835e-06,0.94
+EUR,Southern Europe,Montenegro,2010,4.82353886968e-06,0.9,0.0,0.86
+EUR,Western Europe,Netherlands,2010,0.0,0.96,4.82649650049e-07,0.96
+WPR,Australia/New Zealand,New Zealand,2010,4.57767513613e-07,0.91,4.6198765569e-07,0.89
+AMR,Central America,Nicaragua,2010,0.0,0.99,0.0,0.99
+WPR,Polynesia,Niue,2010,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2010,0.0,0.93,0.0,0.93
+EMR,Western Asia,Oman,2010,6.7940552017e-07,0.99,6.87889879692e-06,0.99
+WPR,Micronesia,Palau,2010,0.0,0.39,0.0,0.75
+AMR,Central America,Panama,2010,0.0,0.97,0.0,0.96
+AMR,South America,Paraguay,2010,0.0,0.94,0.0,0.91
+AMR,South America,Peru,2010,0.0,0.94,0.0,0.91
+EUR,Eastern Europe,Poland,2010,0.00010877601577,0.98,0.000196775792583,0.98
+EUR,Southern Europe,Portugal,2010,0.0,0.96,2.83279164062e-07,0.95
+EMR,Western Asia,Qatar,2010,1.30273971827e-05,0.99,8.79866763033e-06,0.99
+WPR,Eastern Asia,Republic of Korea,2010,4.27785351163e-07,0.98,7.58087357889e-07,0.93
+EUR,Eastern Europe,Republic of Moldova,2010,0.0,0.97,2.44151950408e-07,0.9
+EUR,Eastern Europe,Romania,2010,1.72423645883e-05,0.95,1.67233374906e-05,0.96
+EUR,Eastern Europe,Russian Federation,2010,3.82095040378e-06,0.98,1.11928832825e-05,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2010,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Lucia,2010,0.0,0.95,0.0,0.99
+AMR,Caribbean,Saint Vincent and the Grenadines,2010,0.0,0.99,0.0,0.99
+WPR,Polynesia,Samoa,2010,0.0,0.56,0.0,0.45
+EUR,Southern Europe,San Marino,2010,0.0,0.68,0.0,0.93
+EMR,Western Asia,Saudi Arabia,2010,1.24596618448e-06,0.98,4.37804570607e-07,0.98
+EUR,Southern Europe,Serbia,2010,1.54541591006e-06,0.95,2.97127110978e-06,0.95
+AFR,Eastern Africa,Seychelles,2010,0.0,0.99,0.0,0.97
+WPR,South-Eastern Asia,Singapore,2010,3.11087309213e-05,0.95,3.58501624335e-05,0.95
+EUR,Eastern Europe,Slovakia,2010,0.0,0.98,0.0,0.99
+EUR,Southern Europe,Slovenia,2010,0.0,0.95,0.0,0.95
+EUR,Southern Europe,Spain,2010,1.93126872124e-07,0.95,4.32010323319e-07,0.98
+SEAR,Southern Asia,Sri Lanka,2010,3.36611833589e-06,0.99,7.12191472927e-06,0.97
+AMR,South America,Suriname,2010,0.0,0.9,0.0,0.88
+EUR,Northern Europe,Sweden,2010,3.19751020539e-07,0.97,1.07487238578e-07,0.97
+EUR,Western Europe,Switzerland,2010,1.53246331985e-06,0.92,4.5235301112e-06,0.92
+EMR,Western Asia,Syrian Arab Republic,2010,9.65223014778e-07,0.82,9.72437711718e-08,0.82
+EUR,Central Asia,Tajikistan,2010,7.91379242122e-07,0.94,2.4140386462e-05,0.89
+SEAR,South-Eastern Asia,Thailand,2010,5.80279319775e-06,0.98,8.92586125545e-06,0.98
+EUR,Southern Europe,TFYR Macedonia,2010,1.45458776983e-06,0.98,5.34260680357e-06,0.96
+WPR,Polynesia,Tonga,2010,0.0,0.68,0.0,0.7
+AMR,Caribbean,Trinidad and Tobago,2010,0.0,0.92,0.0,0.94
+EUR,Western Asia,Turkey,2010,8.85072995012e-07,0.97,1.36118743818e-06,0.97
+EUR,Central Asia,Turkmenistan,2010,0.0,0.99,0.0,0.99
+WPR,Polynesia,Tuvalu,2010,0.0,0.85,0.0,0.9
+AMR,NORTHERN AMERICA,United States of America,2010,1.61354776006e-08,0.92,9.76460912465e-09,0.9
+AMR,South America,Uruguay,2010,0.0,0.95,0.0,0.94
+EUR,Central Asia,Uzbekistan,2010,3.60493385667e-08,0.98,2.1947384073e-07,0.95
+AMR,South America,Venezuela (Bolivarian Republic of),2010,0.0,0.79,0.0,0.87
+EUR,Southern Europe,Albania,2009,0.0,0.97,0.0,0.98
+EUR,Southern Europe,Andorra,2009,0.0,0.98,0.0,0.98
+AMR,Caribbean,Antigua and Barbuda,2009,0.0,0.99,0.0,0.99
+AMR,South America,Argentina,2009,9.80424837691e-08,0.96,5.57676144685e-05,0.96
+EUR,Western Asia,Armenia,2009,1.34856765258e-06,0.96,1.3445242569e-06,0.94
+WPR,Australia/New Zealand,Australia,2009,1.14833291917e-06,0.94,1.77816460657e-06,0.94
+EUR,Western Europe,Austria,2009,3.01386377336e-05,0.76,8.40187866007e-07,0.83
+AMR,Caribbean,Bahamas,2009,0.0,0.98,0.0,0.9
+EMR,Western Asia,Bahrain,2009,7.52024198468e-06,0.99,1.79246804926e-06,0.99
+AMR,Caribbean,Barbados,2009,0.0,0.94,0.0,0.94
+EUR,Eastern Europe,Belarus,2009,3.15612730555e-07,0.99,2.09941793638e-07,0.99
+AMR,Central America,Belize,2009,0.0,0.97,0.0,0.96
+SEAR,Southern Asia,Bhutan,2009,2.11915290395e-05,0.94,2.87773924805e-06,0.99
+AMR,South America,Bolivia (Plurinational State of),2009,0.0,0.93,0.0,0.92
+EUR,Southern Europe,Bosnia and Herzegovina,2009,0.000136278477121,0.93,4.94823881763e-06,0.84
+AMR,South America,Brazil,2009,0.0,0.99,1.13005256978e-05,0.99
+WPR,South-Eastern Asia,Brunei Darussalam,2009,2.58344528263e-06,0.99,0.0,0.99
+EUR,Eastern Europe,Bulgaria,2009,5.89807588679e-06,0.96,7.71928423602e-06,0.96
+AMR,NORTHERN AMERICA,Canada,2009,2.07428549754e-07,0.91,2.99730901597e-08,0.93
+AMR,South America,Chile,2009,0.0,0.93,8.41045924712e-07,0.96
+AMR,South America,Colombia,2009,8.80741443377e-08,0.89,8.90835661755e-08,0.95
+WPR,Polynesia,Cook Islands,2009,0.0,0.78,0.0,0.95
+AMR,Central America,Costa Rica,2009,0.0,0.81,0.0,0.89
+EUR,Southern Europe,Croatia,2009,0.0,0.95,2.30194629559e-07,0.98
+AMR,Caribbean,Cuba,2009,0.0,0.99,0.0,0.98
+EUR,Western Asia,Cyprus,2009,0.0,0.87,0.0,0.87
+EUR,Eastern Europe,Czech Republic,2009,5.73612669957e-07,0.98,1.34641536145e-06,0.97
+AMR,Caribbean,Dominica,2009,0.0,0.99,0.0,0.99
+AMR,Caribbean,Dominican Republic,2009,0.0,0.84,0.0,0.83
+AMR,South America,Ecuador,2009,0.0,0.97,0.0,0.98
+EMR,Northern Africa,Egypt,2009,7.55819937834e-06,0.95,1.38902746805e-05,0.92
+AMR,Central America,El Salvador,2009,0.0,0.91,0.0,0.95
+EUR,Northern Europe,Estonia,2009,7.48497391487e-07,0.95,2.98520829291e-06,0.95
+WPR,Melanesia,Fiji,2009,1.17391559547e-06,0.94,0.0,0.94
+EUR,Northern Europe,Finland,2009,0.0,0.98,0.0,0.97
+EUR,Western Asia,Georgia,2009,1.5586506273e-05,0.83,4.32851594068e-05,0.97
+EUR,Southern Europe,Greece,2009,3.5779999517e-07,0.99,0.0,0.99
+AMR,Caribbean,Grenada,2009,0.0,0.98,0.0,0.99
+AMR,Central America,Guatemala,2009,0.0,0.92,0.0,0.96
+AMR,South America,Guyana,2009,0.0,0.97,0.0,0.95
+AMR,Caribbean,Haiti,2009,0.0,0.63,0.0,0.62
+AMR,Central America,Honduras,2009,0.0,0.99,0.0,0.95
+EUR,Eastern Europe,Hungary,2009,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Iceland,2009,0.0,0.92,3.225494307e-06,0.96
+EMR,Southern Asia,Iran (Islamic Republic of),2009,1.49923034966e-07,0.99,1.93021740176e-07,0.98
+EMR,Western Asia,Iraq,2009,5.57212177388e-06,0.87,3.77186007222e-06,0.76
+EUR,Northern Europe,Ireland,2009,5.0454086781e-06,0.9,9.37468611542e-06,0.89
+EUR,Western Asia,Israel,2009,8.26109465012e-07,0.96,7.04839853337e-07,0.98
+EUR,Southern Europe,Italy,2009,1.78249522426e-06,0.9,8.17104335306e-05,0.9
+AMR,Caribbean,Jamaica,2009,0.0,0.88,0.0,0.88
+WPR,Eastern Asia,Japan,2009,1.16223478273e-06,0.94,2.379869602e-06,0.95
+EMR,Western Asia,Jordan,2009,3.19138581142e-07,0.9,1.66388243672e-07,0.9
+EUR,Central Asia,Kazakhstan,2009,3.86374761156e-05,0.99,0.000210480416839,0.99
+WPR,Micronesia,Kiribati,2009,0.0,0.82,0.0,0.72
+EUR,Central Asia,Kyrgyzstan,2009,2.60208054926e-06,0.99,7.54568914779e-07,0.99
+EUR,Northern Europe,Latvia,2009,3.30608177357e-06,0.92,4.1973304978e-06,0.96
+EMR,Western Asia,Lebanon,2009,5.02183301688e-06,0.75,4.38021214828e-06,0.65
+EMR,Northern Africa,Libya,2009,4.83194495448e-07,0.98,1.63318101198e-07,0.98
+EUR,Northern Europe,Lithuania,2009,0.0,0.96,0.0,0.97
+EUR,Western Europe,Luxembourg,2009,0.0,0.96,0.0,0.96
+EUR,Southern Europe,Malta,2009,0.0,0.82,7.38207140924e-06,0.78
+AFR,Eastern Africa,Mauritius,2009,1.60907518404e-06,0.99,2.42324375409e-06,0.98
+AMR,Central America,Mexico,2009,0.0,0.96,4.0009456148e-07,0.96
+EUR,Southern Europe,Montenegro,2009,0.0,0.86,0.0,0.89
+WPR,Micronesia,Nauru,2009,0.0,0.92,0.0,0.99
+EUR,Western Europe,Netherlands,2009,4.82649650049e-07,0.96,1.21066401289e-07,0.96
+AMR,Central America,Nicaragua,2009,0.0,0.99,0.0,0.99
+WPR,Polynesia,Niue,2009,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2009,0.0,0.93,2.09571991123e-07,0.93
+EMR,Western Asia,Oman,2009,6.87889879692e-06,0.99,1.50813639586e-06,0.98
+WPR,Micronesia,Palau,2009,0.0,0.75,0.0,0.97
+AMR,Central America,Panama,2009,0.0,0.96,0.0,0.96
+AMR,South America,Paraguay,2009,0.0,0.91,0.0,0.91
+AMR,South America,Peru,2009,0.0,0.91,0.0,0.92
+EUR,Southern Europe,Portugal,2009,2.83279164062e-07,0.95,3.78162621272e-07,0.97
+WPR,Eastern Asia,Republic of Korea,2009,7.58087357889e-07,0.93,6.39045603943e-07,0.92
+EUR,Eastern Europe,Republic of Moldova,2009,2.44151950408e-07,0.9,2.43239758998e-07,0.95
+EUR,Eastern Europe,Romania,2009,1.67233374906e-05,0.96,8.41783713655e-05,0.96
+EUR,Eastern Europe,Russian Federation,2009,1.11928832825e-05,0.98,6.72008639273e-05,0.99
+AMR,Caribbean,Saint Kitts and Nevis,2009,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Lucia,2009,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Vincent and the Grenadines,2009,0.0,0.99,0.0,0.99
+EUR,Southern Europe,San Marino,2009,0.0,0.93,0.00159151193634,0.73
+EMR,Western Asia,Saudi Arabia,2009,4.37804570607e-07,0.98,5.60897795447e-07,0.97
+EUR,Southern Europe,Serbia,2009,2.97127110978e-06,0.95,2.52482562237e-06,0.92
+AFR,Eastern Africa,Seychelles,2009,0.0,0.97,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2009,3.58501624335e-05,0.95,3.73223579482e-05,0.95
+EUR,Eastern Europe,Slovakia,2009,0.0,0.99,0.0,0.99
+EUR,Southern Europe,Slovenia,2009,0.0,0.95,0.0,0.96
+EUR,Southern Europe,Spain,2009,4.32010323319e-07,0.98,1.52781651884e-06,0.98
+SEAR,Southern Asia,Sri Lanka,2009,7.12191472927e-06,0.97,3.95998907244e-06,0.98
+AMR,South America,Suriname,2009,0.0,0.88,0.0,0.86
+EUR,Northern Europe,Sweden,2009,1.07487238578e-07,0.97,0.0,0.96
+EUR,Western Europe,Switzerland,2009,4.5235301112e-06,0.92,1.56933724273e-06,0.92
+EMR,Western Asia,Syrian Arab Republic,2009,9.72437711718e-08,0.82,2.48792609466e-07,0.81
+SEAR,South-Eastern Asia,Thailand,2009,8.92586125545e-06,0.98,9.34491400422e-06,0.98
+EUR,Southern Europe,TFYR Macedonia,2009,5.34260680357e-06,0.96,6.81175709274e-06,0.98
+WPR,Polynesia,Tonga,2009,0.0,0.7,0.0,0.74
+AMR,Caribbean,Trinidad and Tobago,2009,0.0,0.94,0.0,0.91
+EUR,Western Asia,Turkey,2009,1.36118743818e-06,0.97,1.9759935267e-06,0.97
+EUR,Central Asia,Turkmenistan,2009,0.0,0.99,0.0,0.99
+WPR,Polynesia,Tuvalu,2009,0.0,0.9,0.0,0.93
+AMR,NORTHERN AMERICA,United States of America,2009,9.76460912465e-09,0.9,5.254979142e-08,0.92
+AMR,South America,Uruguay,2009,0.0,0.94,0.0,0.95
+EUR,Central Asia,Uzbekistan,2009,2.1947384073e-07,0.95,8.9044816256e-07,0.98
+AMR,South America,Venezuela (Bolivarian Republic of),2009,0.0,0.87,0.0,0.93
+EUR,Southern Europe,Albania,2008,0.0,0.98,0.0,0.97
+EUR,Southern Europe,Andorra,2008,0.0,0.98,0.0,0.94
+AMR,Caribbean,Antigua and Barbuda,2008,0.0,0.99,0.0,0.99
+AMR,South America,Argentina,2008,5.57676144685e-05,0.96,2.25169440004e-06,0.94
+EUR,Western Asia,Armenia,2008,1.3445242569e-06,0.94,2.91152965744e-05,0.92
+WPR,Australia/New Zealand,Australia,2008,1.77816460657e-06,0.94,1.71625123058e-06,0.94
+EUR,Western Europe,Austria,2008,8.40187866007e-07,0.83,1.56602166651e-06,0.79
+EUR,Western Asia,Azerbaijan,2008,0.0,0.79,4.56445929415e-07,0.75
+AMR,Caribbean,Bahamas,2008,0.0,0.9,0.0,0.96
+EMR,Western Asia,Bahrain,2008,1.79246804926e-06,0.99,4.8705884645e-06,0.99
+AMR,Caribbean,Barbados,2008,0.0,0.94,0.0,0.75
+EUR,Eastern Europe,Belarus,2008,2.09941793638e-07,0.99,7.32519469321e-07,0.99
+AMR,Central America,Belize,2008,0.0,0.96,0.0,0.96
+SEAR,Southern Asia,Bhutan,2008,2.87773924805e-06,0.99,4.40224808135e-06,0.95
+AMR,South America,Bolivia (Plurinational State of),2008,0.0,0.92,0.0,0.86
+EUR,Southern Europe,Bosnia and Herzegovina,2008,4.94823881763e-06,0.84,6.50970466772e-06,0.96
+AMR,South America,Brazil,2008,1.13005256978e-05,0.99,4.53304030842e-05,0.99
+EUR,Eastern Europe,Bulgaria,2008,7.71928423602e-06,0.96,1.16273231524e-05,0.96
+AMR,NORTHERN AMERICA,Canada,2008,2.99730901597e-08,0.93,3.03193108542e-08,0.94
+AMR,South America,Chile,2008,8.41045924712e-07,0.96,0.000257248203515,0.92
+AMR,South America,Colombia,2008,8.90835661755e-08,0.95,4.5070778023e-08,0.93
+WPR,Polynesia,Cook Islands,2008,0.0,0.95,0.0,0.98
+AMR,Central America,Costa Rica,2008,0.0,0.89,0.0,0.9
+EUR,Southern Europe,Croatia,2008,2.30194629559e-07,0.98,7.57382760591e-06,0.96
+AMR,Caribbean,Cuba,2008,0.0,0.98,0.0,0.97
+EUR,Western Asia,Cyprus,2008,0.0,0.87,0.0,0.87
+EUR,Eastern Europe,Czech Republic,2008,1.34641536145e-06,0.97,3.87203317558e-07,0.98
+EUR,Northern Europe,Denmark,2008,3.6394737321e-07,0.87,1.82916010455e-07,0.89
+AMR,Caribbean,Dominica,2008,0.0,0.99,0.0,0.96
+AMR,Caribbean,Dominican Republic,2008,0.0,0.83,0.0,0.82
+AMR,South America,Ecuador,2008,0.0,0.98,0.0,0.98
+EMR,Northern Africa,Egypt,2008,1.38902746805e-05,0.92,0.00014630438399,0.97
+AMR,Central America,El Salvador,2008,0.0,0.95,0.0,0.99
+EUR,Northern Europe,Estonia,2008,2.98520829291e-06,0.95,7.43920311256e-06,0.96
+WPR,Melanesia,Fiji,2008,0.0,0.94,0.0,0.94
+EUR,Northern Europe,Finland,2008,0.0,0.97,0.0,0.98
+EUR,Western Asia,Georgia,2008,4.32851594068e-05,0.97,5.1300876219e-05,0.97
+EUR,Southern Europe,Greece,2008,0.0,0.99,0.0,0.99
+AMR,Caribbean,Grenada,2008,0.0,0.99,0.0,0.98
+AMR,Central America,Guatemala,2008,0.0,0.96,0.0,0.86
+AMR,South America,Guyana,2008,0.0,0.95,0.0,0.96
+AMR,Central America,Honduras,2008,0.0,0.95,0.0,0.96
+EUR,Eastern Europe,Hungary,2008,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Iceland,2008,3.225494307e-06,0.96,0.0,0.95
+EMR,Southern Asia,Iran (Islamic Republic of),2008,1.93021740176e-07,0.98,2.78858898234e-07,0.97
+EMR,Western Asia,Iraq,2008,3.77186007222e-06,0.76,1.79428741107e-06,0.64
+EUR,Northern Europe,Ireland,2008,9.37468611542e-06,0.89,4.32938903206e-06,0.87
+EUR,Western Asia,Israel,2008,7.04839853337e-07,0.98,4.33478404106e-07,0.97
+EUR,Southern Europe,Italy,2008,8.17104335306e-05,0.9,7.25414534669e-06,0.9
+AMR,Caribbean,Jamaica,2008,0.0,0.88,0.0,0.76
+EMR,Western Asia,Jordan,2008,1.66388243672e-07,0.9,5.20885783638e-07,0.97
+EUR,Central Asia,Kazakhstan,2008,0.000210480416839,0.99,0.000170863788809,0.99
+WPR,Micronesia,Kiribati,2008,0.0,0.72,0.0,0.93
+EUR,Central Asia,Kyrgyzstan,2008,7.54568914779e-07,0.99,5.73730048538e-07,0.99
+EUR,Northern Europe,Latvia,2008,4.1973304978e-06,0.96,3.22375632087e-06,0.95
+EMR,Western Asia,Lebanon,2008,4.38021214828e-06,0.65,7.83271283561e-06,0.55
+EMR,Northern Africa,Libya,2008,1.63318101198e-07,0.98,1.66173960873e-07,0.98
+EUR,Northern Europe,Lithuania,2008,0.0,0.97,3.98247710076e-06,0.97
+EUR,Western Europe,Luxembourg,2008,0.0,0.96,0.0,0.96
+EUR,Southern Europe,Malta,2008,7.38207140924e-06,0.78,4.96179418478e-06,0.79
+AFR,Eastern Africa,Mauritius,2008,2.42324375409e-06,0.98,4.86618004866e-06,0.98
+AMR,Central America,Mexico,2008,4.0009456148e-07,0.96,9.01542937706e-07,0.96
+EUR,Southern Europe,Montenegro,2008,0.0,0.89,0.0,0.9
+WPR,Micronesia,Nauru,2008,0.0,0.99,0.0,0.99
+EUR,Western Europe,Netherlands,2008,1.21066401289e-07,0.96,6.07421598576e-08,0.96
+AMR,Central America,Nicaragua,2008,0.0,0.99,0.0,0.99
+WPR,Polynesia,Niue,2008,0.0,0.99,0.0,0.98
+EMR,Western Asia,Oman,2008,1.50813639586e-06,0.98,6.1686746988e-06,0.97
+WPR,Micronesia,Palau,2008,0.0,0.97,0.0,0.91
+AMR,Central America,Panama,2008,0.0,0.96,0.0,0.95
+AMR,South America,Paraguay,2008,0.0,0.91,0.0,0.91
+AMR,South America,Peru,2008,0.0,0.92,0.0,0.92
+EUR,Southern Europe,Portugal,2008,3.78162621272e-07,0.97,5.68682646649e-07,0.95
+WPR,Eastern Asia,Republic of Korea,2008,6.39045603943e-07,0.92,7.26064857092e-07,0.92
+EUR,Eastern Europe,Republic of Moldova,2008,2.43239758998e-07,0.95,7.26663210979e-07,0.96
+EUR,Eastern Europe,Romania,2008,8.41783713655e-05,0.96,0.000140993369308,0.97
+EUR,Eastern Europe,Russian Federation,2008,6.72008639273e-05,0.99,0.000215434740476,0.99
+AMR,Caribbean,Saint Kitts and Nevis,2008,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Lucia,2008,0.0,0.99,0.0,0.94
+AMR,Caribbean,Saint Vincent and the Grenadines,2008,0.0,0.99,0.0,0.99
+EUR,Southern Europe,San Marino,2008,0.00159151193634,0.73,0.000167392032139,0.92
+EMR,Western Asia,Saudi Arabia,2008,5.60897795447e-07,0.97,1.22682828085e-06,0.96
+EUR,Southern Europe,Serbia,2008,2.52482562237e-06,0.92,4.49051788814e-06,0.95
+AFR,Eastern Africa,Seychelles,2008,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2008,3.73223579482e-05,0.95,1.75372243434e-05,0.95
+EUR,Eastern Europe,Slovakia,2008,0.0,0.99,3.70938455746e-07,0.99
+EUR,Southern Europe,Slovenia,2008,0.0,0.96,4.95675233587e-07,0.96
+EUR,Southern Europe,Spain,2008,1.52781651884e-06,0.98,1.52622654422e-06,0.97
+SEAR,Southern Asia,Sri Lanka,2008,3.95998907244e-06,0.98,2.52349117939e-07,0.98
+AMR,South America,Suriname,2008,0.0,0.86,0.0,0.85
+EUR,Northern Europe,Sweden,2008,0.0,0.96,2.18499954115e-07,0.96
+EMR,Western Asia,Syrian Arab Republic,2008,2.48792609466e-07,0.81,0.0,0.81
+SEAR,South-Eastern Asia,Thailand,2008,9.34491400422e-06,0.98,5.13913569383e-06,0.96
+EUR,Southern Europe,TFYR Macedonia,2008,6.81175709274e-06,0.98,9.26183199037e-06,0.96
+WPR,Polynesia,Tonga,2008,0.0,0.74,0.0,0.77
+AMR,Caribbean,Trinidad and Tobago,2008,0.0,0.91,0.0,0.91
+EUR,Western Asia,Turkey,2008,1.9759935267e-06,0.97,9.26412228411e-06,0.96
+EUR,Central Asia,Turkmenistan,2008,0.0,0.99,3.0875378738e-06,0.99
+WPR,Polynesia,Tuvalu,2008,0.0,0.93,0.0,0.95
+EUR,Eastern Europe,Ukraine,2008,7.5931249522e-05,0.94,0.000125883258521,0.97
+AMR,NORTHERN AMERICA,United States of America,2008,5.254979142e-08,0.92,3.97804187187e-08,0.92
+AMR,South America,Uruguay,2008,0.0,0.95,0.0,0.96
+EUR,Central Asia,Uzbekistan,2008,8.9044816256e-07,0.98,7.59778385433e-06,0.98
+AMR,South America,Venezuela (Bolivarian Republic of),2008,0.0,0.93,2.24064044732e-06,0.87
+EUR,Southern Europe,Albania,2007,0.0,0.97,0.0,0.95
+EUR,Southern Europe,Andorra,2007,0.0,0.94,0.000263883891088,0.91
+AMR,Caribbean,Antigua and Barbuda,2007,0.0,0.99,0.0,0.99
+AMR,South America,Argentina,2007,2.25169440004e-06,0.94,7.5583783613e-06,0.97
+EUR,Western Asia,Armenia,2007,2.91152965744e-05,0.92,0.00449676233112,0.92
+EUR,Western Asia,Azerbaijan,2007,4.56445929415e-07,0.75,1.46615039702e-05,0.69
+AMR,Caribbean,Bahamas,2007,0.0,0.96,0.0,0.88
+EMR,Western Asia,Bahrain,2007,4.8705884645e-06,0.99,3.18874161627e-06,0.99
+AMR,Caribbean,Barbados,2007,0.0,0.75,0.0,0.92
+EUR,Eastern Europe,Belarus,2007,7.32519469321e-07,0.99,0.000245981178271,0.97
+AMR,Central America,Belize,2007,0.0,0.96,0.0,0.99
+SEAR,Southern Asia,Bhutan,2007,4.40224808135e-06,0.95,1.64937323817e-05,0.9
+AMR,South America,Bolivia (Plurinational State of),2007,0.0,0.86,2.15439469588e-07,0.88
+EUR,Southern Europe,Bosnia and Herzegovina,2007,6.50970466772e-06,0.96,7.55503451869e-06,0.85
+AMR,South America,Brazil,2007,4.53304030842e-05,0.99,8.55277951176e-06,0.99
+EUR,Eastern Europe,Bulgaria,2007,1.16273231524e-05,0.96,3.23950995526e-05,0.96
+AMR,NORTHERN AMERICA,Canada,2007,3.03193108542e-08,0.94,2.1464860184e-07,0.93
+AMR,South America,Chile,2007,0.000257248203515,0.92,0.0,0.91
+AMR,South America,Colombia,2007,4.5070778023e-08,0.93,1.36874614185e-07,0.95
+WPR,Polynesia,Cook Islands,2007,0.0,0.98,0.0,0.99
+AMR,Central America,Costa Rica,2007,0.0,0.9,0.0,0.9
+EUR,Southern Europe,Croatia,2007,7.57382760591e-06,0.96,4.57820955381e-07,0.95
+AMR,Caribbean,Cuba,2007,0.0,0.97,0.0,0.96
+EUR,Western Asia,Cyprus,2007,0.0,0.87,0.0,0.87
+EUR,Eastern Europe,Czech Republic,2007,3.87203317558e-07,0.98,7.78855627427e-07,0.97
+EUR,Northern Europe,Denmark,2007,1.82916010455e-07,0.89,0.0,0.9
+AMR,Caribbean,Dominica,2007,0.0,0.96,0.0,0.97
+AMR,Caribbean,Dominican Republic,2007,0.0,0.82,2.24087722874e-06,0.81
+AMR,South America,Ecuador,2007,0.0,0.98,0.0,0.97
+EMR,Northern Africa,Egypt,2007,0.00014630438399,0.97,3.39170643214e-05,0.97
+AMR,Central America,El Salvador,2007,0.0,0.99,3.35145352539e-07,0.98
+EUR,Northern Europe,Estonia,2007,7.43920311256e-06,0.96,3.70543290573e-06,0.96
+WPR,Melanesia,Fiji,2007,0.0,0.94,1.20861987696e-05,0.92
+EUR,Northern Europe,Finland,2007,0.0,0.98,1.89875821213e-07,0.97
+EUR,Western Asia,Georgia,2007,5.1300876219e-05,0.97,0.00010882350949,0.96
+AMR,Caribbean,Grenada,2007,0.0,0.98,0.0,0.98
+AMR,Central America,Guatemala,2007,0.0,0.86,8.15416410922e-07,0.95
+AMR,South America,Guyana,2007,0.0,0.96,0.0,0.9
+AMR,Central America,Honduras,2007,0.0,0.96,0.0,0.97
+EUR,Eastern Europe,Hungary,2007,0.0,0.99,2.18287317705e-06,0.99
+EUR,Northern Europe,Iceland,2007,0.0,0.95,0.0,0.95
+EMR,Western Asia,Iraq,2007,1.79428741107e-06,0.64,2.59768560644e-06,0.52
+EUR,Northern Europe,Ireland,2007,4.32938903206e-06,0.87,3.26040885527e-06,0.86
+EUR,Western Asia,Israel,2007,4.33478404106e-07,0.97,5.92167986214e-07,0.96
+EUR,Southern Europe,Italy,2007,7.25414534669e-06,0.9,3.53030212767e-06,0.88
+AMR,Caribbean,Jamaica,2007,0.0,0.76,0.0,0.87
+EMR,Western Asia,Jordan,2007,5.20885783638e-07,0.97,2.71236948982e-05,0.88
+EUR,Central Asia,Kazakhstan,2007,0.000170863788809,0.99,0.000157725370712,0.99
+EUR,Central Asia,Kyrgyzstan,2007,5.73730048538e-07,0.99,2.12904324667e-06,0.97
+EUR,Northern Europe,Latvia,2007,3.22375632087e-06,0.95,5.45675295915e-06,0.98
+EMR,Western Asia,Lebanon,2007,7.83271283561e-06,0.55,3.94376195453e-06,0.45
+EMR,Northern Africa,Libya,2007,1.66173960873e-07,0.98,1.69286373293e-07,0.98
+EUR,Northern Europe,Lithuania,2007,3.98247710076e-06,0.97,3.32775681963e-05,0.97
+EUR,Western Europe,Luxembourg,2007,0.0,0.96,0.0,0.95
+EUR,Southern Europe,Malta,2007,4.96179418478e-06,0.79,2.50068768911e-06,0.94
+WPR,Micronesia,Marshall Islands,2007,0.0,0.94,0.0,0.96
+AFR,Eastern Africa,Mauritius,2007,4.86618004866e-06,0.98,2.44357380815e-06,0.99
+AMR,Central America,Mexico,2007,9.01542937706e-07,0.96,6.64375111215e-07,0.96
+WPR,Micronesia,Micronesia (Federated States of),2007,0.0,0.92,0.0,0.83
+EUR,Southern Europe,Montenegro,2007,0.0,0.9,0.0,0.9
+WPR,Micronesia,Nauru,2007,0.0,0.99,0.0,0.97
+EUR,Western Europe,Netherlands,2007,6.07421598576e-08,0.96,6.70686313304e-07,0.96
+WPR,Australia/New Zealand,New Zealand,2007,2.35959245119e-06,0.79,1.91041126378e-06,0.82
+AMR,Central America,Nicaragua,2007,0.0,0.99,0.0,0.99
+EMR,Western Asia,Oman,2007,6.1686746988e-06,0.97,4.30801525821e-06,0.96
+WPR,Micronesia,Palau,2007,0.0,0.91,0.0,0.98
+AMR,Central America,Panama,2007,0.0,0.95,0.0,0.95
+AMR,South America,Paraguay,2007,0.0,0.91,0.0,0.91
+AMR,South America,Peru,2007,0.0,0.92,2.60107706773e-05,0.93
+EUR,Eastern Europe,Poland,2007,0.000594539895211,0.98,0.000537127495792,0.99
+EUR,Southern Europe,Portugal,2007,5.68682646649e-07,0.95,8.55793149091e-07,0.97
+EMR,Western Asia,Qatar,2007,2.20533351428e-05,0.92,3.43972886843e-05,0.99
+WPR,Eastern Asia,Republic of Korea,2007,7.26064857092e-07,0.92,3.7577001539e-07,0.99
+EUR,Eastern Europe,Republic of Moldova,2007,7.26663210979e-07,0.96,3.37784855175e-06,0.96
+EUR,Eastern Europe,Romania,2007,0.000140993369308,0.97,0.000168018643798,0.95
+EUR,Eastern Europe,Russian Federation,2007,0.000215434740476,0.99,0.000929890320396,0.99
+AMR,Caribbean,Saint Kitts and Nevis,2007,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Lucia,2007,0.0,0.94,0.0,0.94
+AMR,Caribbean,Saint Vincent and the Grenadines,2007,0.0,0.99,0.0,0.99
+EUR,Southern Europe,San Marino,2007,0.000167392032139,0.92,0.0,0.94
+EMR,Western Asia,Saudi Arabia,2007,1.22682828085e-06,0.96,9.04799726514e-07,0.95
+EUR,Southern Europe,Serbia,2007,4.49051788814e-06,0.95,8.41092502698e-06,0.88
+AFR,Eastern Africa,Seychelles,2007,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2007,1.75372243434e-05,0.95,1.95031465076e-05,0.93
+EUR,Eastern Europe,Slovakia,2007,3.70938455746e-07,0.99,3.71213850731e-07,0.98
+EUR,Southern Europe,Slovenia,2007,4.95675233587e-07,0.96,4.98611367342e-07,0.96
+EUR,Southern Europe,Spain,2007,1.52622654422e-06,0.97,1.95339118814e-06,0.97
+SEAR,Southern Asia,Sri Lanka,2007,2.52349117939e-07,0.98,1.01665173883e-07,0.99
+AMR,South America,Suriname,2007,0.0,0.85,0.0,0.83
+EUR,Northern Europe,Sweden,2007,2.18499954115e-07,0.96,2.20088585656e-07,0.97
+EMR,Western Asia,Syrian Arab Republic,2007,0.0,0.81,1.60186243205e-06,0.81
+SEAR,South-Eastern Asia,Thailand,2007,5.13913569383e-06,0.96,7.52555856494e-06,0.96
+EUR,Southern Europe,TFYR Macedonia,2007,9.26183199037e-06,0.96,1.36763491963e-05,0.94
+WPR,Polynesia,Tonga,2007,0.0,0.77,0.0,0.78
+AMR,Caribbean,Trinidad and Tobago,2007,0.0,0.91,0.0,0.89
+EUR,Western Asia,Turkey,2007,9.26412228411e-06,0.96,1.5399233124e-05,0.98
+WPR,Polynesia,Tuvalu,2007,0.0,0.95,0.0,0.84
+EUR,Eastern Europe,Ukraine,2007,0.000125883258521,0.97,0.000324841213589,0.98
+AMR,NORTHERN AMERICA,United States of America,2007,3.97804187187e-08,0.92,3.68064674451e-08,0.92
+AMR,South America,Uruguay,2007,0.0,0.96,0.0,0.94
+EUR,Central Asia,Uzbekistan,2007,7.59778385433e-06,0.98,1.15840635294e-05,0.98
+AMR,South America,Venezuela (Bolivarian Republic of),2007,2.24064044732e-06,0.87,6.90637417927e-06,0.82
+EUR,Southern Europe,Albania,2006,0.0,0.95,0.0,0.97
+EUR,Southern Europe,Andorra,2006,0.000263883891088,0.91,0.0,0.94
+AMR,Caribbean,Antigua and Barbuda,2006,0.0,0.99,0.0,0.99
+AMR,South America,Argentina,2006,7.5583783613e-06,0.97,0.0,0.98
+EUR,Western Asia,Armenia,2006,0.00449676233112,0.92,0.000205643930851,0.94
+EUR,Western Asia,Azerbaijan,2006,1.46615039702e-05,0.69,0.00011969544807,0.67
+AMR,Caribbean,Bahamas,2006,0.0,0.88,0.0,0.85
+EMR,Western Asia,Bahrain,2006,3.18874161627e-06,0.99,8.07372463985e-06,0.99
+AMR,Caribbean,Barbados,2006,0.0,0.92,0.0,0.93
+EUR,Eastern Europe,Belarus,2006,0.000245981178271,0.97,0.000395410253697,0.99
+AMR,Central America,Belize,2006,0.0,0.99,0.0,0.95
+AMR,South America,Bolivia (Plurinational State of),2006,2.15439469588e-07,0.88,8.76672938531e-07,0.89
+EUR,Southern Europe,Bosnia and Herzegovina,2006,7.55503451869e-06,0.85,1.12172547465e-05,0.9
+AMR,South America,Brazil,2006,8.55277951176e-06,0.99,1.23621041766e-06,0.98
+EUR,Eastern Europe,Bulgaria,2006,3.23950995526e-05,0.96,0.000256162944624,0.96
+AMR,NORTHERN AMERICA,Canada,2006,2.1464860184e-07,0.93,9.92053342708e-06,0.94
+AMR,South America,Chile,2006,0.0,0.91,2.91987671908e-06,0.9
+AMR,South America,Colombia,2006,1.36874614185e-07,0.95,1.96369973968e-06,0.96
+AMR,Central America,Costa Rica,2006,0.0,0.9,0.0,0.89
+EUR,Southern Europe,Croatia,2006,4.57820955381e-07,0.95,6.85235012768e-07,0.96
+AMR,Caribbean,Cuba,2006,0.0,0.96,0.0,0.98
+EUR,Western Asia,Cyprus,2006,0.0,0.87,0.0,0.86
+EUR,Eastern Europe,Czech Republic,2006,7.78855627427e-07,0.97,7.81946421031e-07,0.97
+EUR,Northern Europe,Denmark,2006,0.0,0.9,0.0,0.95
+AMR,Caribbean,Dominica,2006,0.0,0.97,0.0,0.98
+AMR,Caribbean,Dominican Republic,2006,2.24087722874e-06,0.81,6.49521465061e-07,0.79
+AMR,South America,Ecuador,2006,0.0,0.97,0.0,0.93
+EMR,Northern Africa,Egypt,2006,3.39170643214e-05,0.97,6.93868815027e-06,0.97
+AMR,Central America,El Salvador,2006,3.35145352539e-07,0.98,0.0,0.99
+EUR,Northern Europe,Estonia,2006,3.70543290573e-06,0.96,4.42588849712e-06,0.96
+WPR,Melanesia,Fiji,2006,1.20861987696e-05,0.92,0.0,0.9
+EUR,Northern Europe,Finland,2006,1.89875821213e-07,0.97,0.0,0.97
+EUR,Western Asia,Georgia,2006,0.00010882350949,0.96,0.000411371827845,0.9
+AMR,Caribbean,Grenada,2006,0.0,0.98,0.0,0.99
+AMR,Central America,Guatemala,2006,8.15416410922e-07,0.95,3.03409334843e-07,0.93
+AMR,South America,Guyana,2006,0.0,0.9,0.0,0.92
+AMR,Central America,Honduras,2006,0.0,0.97,0.0,0.96
+EUR,Eastern Europe,Hungary,2006,2.18287317705e-06,0.99,3.16958466555e-06,0.99
+EUR,Northern Europe,Iceland,2006,0.0,0.95,0.0,0.9
+EMR,Western Asia,Iraq,2006,2.59768560644e-06,0.52,3.66426318145e-06,0.58
+EUR,Northern Europe,Ireland,2006,3.26040885527e-06,0.86,4.04405642648e-06,0.84
+EUR,Western Asia,Israel,2006,5.92167986214e-07,0.96,3.48290650062e-06,0.94
+EUR,Southern Europe,Italy,2006,3.53030212767e-06,0.88,2.91523518958e-06,0.87
+AMR,Caribbean,Jamaica,2006,0.0,0.87,0.0,0.84
+EMR,Western Asia,Jordan,2006,2.71236948982e-05,0.88,0.00260248491463,0.92
+EUR,Central Asia,Kazakhstan,2006,0.000157725370712,0.99,0.000568414580873,0.99
+EUR,Central Asia,Kyrgyzstan,2006,2.12904324667e-06,0.97,1.95485458814e-07,0.99
+EUR,Northern Europe,Latvia,2006,5.45675295915e-06,0.98,1.57122591535e-05,0.98
+EMR,Western Asia,Lebanon,2006,3.94376195453e-06,0.45,3.26070325845e-06,0.63
+EMR,Northern Africa,Libya,2006,1.69286373293e-07,0.98,1.72368026421e-06,0.97
+EUR,Northern Europe,Lithuania,2006,3.32775681963e-05,0.97,3.52947862422e-05,0.97
+EUR,Southern Europe,Malta,2006,2.50068768911e-06,0.94,1.51099247022e-05,0.86
+WPR,Micronesia,Marshall Islands,2006,0.0,0.96,0.0,0.86
+AFR,Eastern Africa,Mauritius,2006,2.44357380815e-06,0.99,2.45497172691e-06,0.98
+AMR,Central America,Mexico,2006,6.64375111215e-07,0.96,3.46248051557e-07,0.96
+WPR,Micronesia,Micronesia (Federated States of),2006,0.0,0.83,0.0,0.96
+EUR,Western Europe,Netherlands,2006,6.70686313304e-07,0.96,2.22880113155e-05,0.95
+WPR,Australia/New Zealand,New Zealand,2006,1.91041126378e-06,0.82,3.1441217017e-06,0.82
+AMR,Central America,Nicaragua,2006,0.0,0.99,8.73714756299e-06,0.96
+EUR,Northern Europe,Norway,2006,4.28530718153e-07,0.92,2.16244737144e-07,0.9
+EMR,Western Asia,Oman,2006,4.30801525821e-06,0.96,8.77581385701e-06,0.98
+WPR,Micronesia,Palau,2006,0.0,0.98,0.0,0.98
+AMR,Central America,Panama,2006,0.0,0.95,0.0,0.99
+AMR,South America,Paraguay,2006,0.0,0.91,3.45095928041e-07,0.91
+AMR,South America,Peru,2006,2.60107706773e-05,0.93,0.000132993316651,0.77
+EUR,Eastern Europe,Poland,2006,0.000537127495792,0.99,0.000206585410432,0.98
+EUR,Southern Europe,Portugal,2006,8.55793149091e-07,0.97,2.1660119331e-05,0.93
+EMR,Western Asia,Qatar,2006,3.43972886843e-05,0.99,4.30148640252e-05,0.99
+WPR,Eastern Asia,Republic of Korea,2006,3.7577001539e-07,0.99,2.52069808213e-07,0.99
+EUR,Eastern Europe,Republic of Moldova,2006,3.37784855175e-06,0.96,7.69654449204e-06,0.97
+EUR,Eastern Europe,Romania,2006,0.000168018643798,0.95,0.000317690616706,0.97
+EUR,Eastern Europe,Russian Federation,2006,0.000929890320396,0.99,0.00100948618313,0.99
+AMR,Caribbean,Saint Kitts and Nevis,2006,0.0,0.99,0.0,0.99
+AMR,Caribbean,Saint Lucia,2006,0.0,0.94,0.0,0.94
+AMR,Caribbean,Saint Vincent and the Grenadines,2006,0.0,0.99,0.0,0.97
+WPR,Polynesia,Samoa,2006,0.0,0.54,0.0,0.57
+EUR,Southern Europe,San Marino,2006,0.0,0.94,3.41997264022e-05,0.94
+EMR,Western Asia,Saudi Arabia,2006,9.04799726514e-07,0.95,7.27412919581e-07,0.97
+EUR,Southern Europe,Serbia,2006,8.41092502698e-06,0.88,1.66545295422e-05,0.96
+AFR,Eastern Africa,Seychelles,2006,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2006,1.95031465076e-05,0.93,3.09196023606e-05,0.96
+EUR,Eastern Europe,Slovakia,2006,3.71213850731e-07,0.98,1.85694469462e-07,0.98
+EUR,Southern Europe,Slovenia,2006,4.98611367342e-07,0.96,0.0,0.94
+EUR,Southern Europe,Spain,2006,1.95339118814e-06,0.97,1.34991047722e-05,0.97
+SEAR,Southern Asia,Sri Lanka,2006,1.01665173883e-07,0.99,8.19403054632e-07,0.99
+AMR,South America,Suriname,2006,0.0,0.83,0.0,0.91
+EUR,Northern Europe,Sweden,2006,2.20088585656e-07,0.97,0.0,0.96
+EMR,Western Asia,Syrian Arab Republic,2006,1.60186243205e-06,0.81,2.20594236755e-07,0.81
+SEAR,South-Eastern Asia,Thailand,2006,7.52555856494e-06,0.96,5.79983259436e-06,0.96
+EUR,Southern Europe,TFYR Macedonia,2006,1.36763491963e-05,0.94,1.51745811081e-05,0.96
+WPR,Polynesia,Tonga,2006,0.0,0.78,0.0,0.81
+AMR,Caribbean,Trinidad and Tobago,2006,0.0,0.89,0.0,0.93
+WPR,Polynesia,Tuvalu,2006,0.0,0.84,0.0,0.62
+EUR,Eastern Europe,Ukraine,2006,0.000324841213589,0.98,0.000475432260199,0.96
+AMR,NORTHERN AMERICA,United States of America,2006,3.68064674451e-08,0.92,3.71446389278e-08,0.92
+AMR,South America,Uruguay,2006,0.0,0.94,0.0,0.95
+AMR,South America,Venezuela (Bolivarian Republic of),2006,6.90637417927e-06,0.82,3.07443800917e-05,0.76
+EUR,Southern Europe,Albania,2005,0.0,0.97,0.0,0.96
+EUR,Southern Europe,Andorra,2005,0.0,0.94,0.0,0.98
+AMR,Caribbean,Antigua and Barbuda,2005,0.0,0.99,0.0,0.97
+AMR,South America,Argentina,2005,0.0,0.98,1.54923547811e-07,0.99
+EUR,Western Asia,Armenia,2005,0.000205643930851,0.94,0.000242235573269,0.92
+WPR,Australia/New Zealand,Australia,2005,1.52903087064e-06,0.94,2.20159836041e-06,0.94
+EUR,Western Asia,Azerbaijan,2005,0.00011969544807,0.67,0.000684596577017,0.67
+AMR,Caribbean,Bahamas,2005,0.0,0.85,0.0,0.89
+EMR,Western Asia,Bahrain,2005,8.07372463985e-06,0.99,2.47527815938e-06,0.99
+AMR,Caribbean,Barbados,2005,0.0,0.93,0.0,0.98
+EUR,Eastern Europe,Belarus,2005,0.000395410253697,0.99,0.000463293862594,0.99
+AMR,Central America,Belize,2005,0.0,0.95,0.0,0.97
+AMR,South America,Bolivia (Plurinational State of),2005,8.76672938531e-07,0.89,1.33812978521e-06,0.9
+EUR,Southern Europe,Bosnia and Herzegovina,2005,1.12172547465e-05,0.9,1.12392736815e-05,0.88
+AMR,South America,Brazil,2005,1.23621041766e-06,0.98,1.71398151135e-06,0.97
+WPR,South-Eastern Asia,Brunei Darussalam,2005,0.0,0.98,0.0,0.99
+EUR,Eastern Europe,Bulgaria,2005,0.000256162944624,0.96,6.12186383632e-05,0.95
+AMR,South America,Chile,2005,2.91987671908e-06,0.9,1.88523683602e-07,0.94
+AMR,South America,Colombia,2005,1.96369973968e-06,0.96,1.05326822107e-06,0.94
+AMR,Central America,Costa Rica,2005,0.0,0.89,0.0,0.88
+EUR,Southern Europe,Croatia,2005,6.85235012768e-07,0.96,4.56095141447e-07,0.96
+AMR,Caribbean,Cuba,2005,0.0,0.98,1.60132661013e-06,0.99
+EUR,Western Asia,Cyprus,2005,0.0,0.86,5.90650010336e-06,0.86
+EUR,Eastern Europe,Czech Republic,2005,7.81946421031e-07,0.97,3.03561758661e-06,0.97
+EUR,Northern Europe,Denmark,2005,0.0,0.95,0.0,0.96
+AMR,Caribbean,Dominica,2005,0.0,0.98,0.0,0.99
+AMR,Caribbean,Dominican Republic,2005,6.49521465061e-07,0.79,7.68977260244e-07,0.81
+AMR,South America,Ecuador,2005,0.0,0.93,5.84767184938e-06,0.99
+EMR,Northern Africa,Egypt,2005,6.93868815027e-06,0.97,2.44578277074e-07,0.96
+AMR,Central America,El Salvador,2005,0.0,0.99,1.68773807655e-07,0.93
+EUR,Northern Europe,Estonia,2005,4.42588849712e-06,0.96,1.61343551758e-05,0.96
+WPR,Melanesia,Fiji,2005,0.0,0.9,2.44391221467e-06,0.88
+EUR,Northern Europe,Finland,2005,0.0,0.97,0.0,0.97
+EUR,Western Asia,Georgia,2005,0.000411371827845,0.9,0.00106289397141,0.86
+EUR,Southern Europe,Greece,2005,1.44539218007e-06,0.96,1.81032500765e-07,0.95
+AMR,Caribbean,Grenada,2005,0.0,0.99,0.0,0.74
+AMR,Central America,Guatemala,2005,3.03409334843e-07,0.93,2.7955280869e-06,0.95
+AMR,South America,Guyana,2005,0.0,0.92,0.0,0.88
+AMR,Central America,Honduras,2005,0.0,0.96,1.48074659243e-07,0.92
+EUR,Eastern Europe,Hungary,2005,3.16958466555e-06,0.99,3.55829324488e-06,0.99
+EUR,Northern Europe,Iceland,2005,0.0,0.9,0.0,0.93
+EMR,Western Asia,Iraq,2005,3.66426318145e-06,0.58,1.45513787146e-05,0.41
+EUR,Northern Europe,Ireland,2005,4.04405642648e-06,0.84,1.18938678616e-05,0.81
+EUR,Western Asia,Israel,2005,3.48290650062e-06,0.94,1.70014142085e-06,0.97
+EUR,Southern Europe,Italy,2005,2.91523518958e-06,0.87,6.22125774637e-06,0.86
+AMR,Caribbean,Jamaica,2005,0.0,0.84,0.0,0.86
+EMR,Western Asia,Jordan,2005,0.00260248491463,0.92,0.00147864406386,0.98
+EUR,Central Asia,Kazakhstan,2005,0.000568414580873,0.99,0.000987481096109,0.99
+WPR,Micronesia,Kiribati,2005,0.0,0.85,0.0,0.56
+EMR,Western Asia,Kuwait,2005,3.31330623785e-05,0.99,3.0004523759e-05,0.97
+EUR,Central Asia,Kyrgyzstan,2005,1.95485458814e-07,0.99,1.37862578582e-06,0.99
+EUR,Northern Europe,Latvia,2005,1.57122591535e-05,0.98,2.30400453712e-05,0.98
+EMR,Western Asia,Lebanon,2005,3.26070325845e-06,0.63,3.1061768916e-05,0.58
+EMR,Northern Africa,Libya,2005,1.72368026421e-06,0.97,5.26018635087e-06,0.99
+EUR,Northern Europe,Lithuania,2005,3.52947862422e-05,0.97,2.75411933333e-05,0.98
+EUR,Southern Europe,Malta,2005,1.51099247022e-05,0.86,0.0,0.94
+AMR,Central America,Mexico,2005,3.46248051557e-07,0.96,6.45680838576e-06,0.96
+WPR,Micronesia,Micronesia (Federated States of),2005,0.0,0.96,0.0,0.85
+EUR,Western Europe,Netherlands,2005,2.22880113155e-05,0.95,2.83017707064e-06,0.96
+WPR,Australia/New Zealand,New Zealand,2005,3.1441217017e-06,0.82,6.12928375642e-06,0.83
+AMR,Central America,Nicaragua,2005,8.73714756299e-06,0.96,1.13000734505e-06,0.84
+WPR,Polynesia,Niue,2005,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2005,2.16244737144e-07,0.9,4.35802006432e-07,0.89
+EMR,Western Asia,Oman,2005,8.77581385701e-06,0.98,3.6761852634e-06,0.98
+WPR,Micronesia,Palau,2005,0.0,0.98,0.0,0.99
+AMR,Central America,Panama,2005,0.0,0.99,0.0,0.97
+AMR,South America,Paraguay,2005,3.45095928041e-07,0.91,1.75323559629e-07,0.91
+AMR,South America,Peru,2005,0.000132993316651,0.77,6.44955723918e-05,0.85
+EUR,Eastern Europe,Poland,2005,0.000206585410432,0.98,0.000126305048145,0.97
+EUR,Southern Europe,Portugal,2005,2.1660119331e-05,0.93,7.66103740023e-07,0.95
+WPR,Eastern Asia,Republic of Korea,2005,2.52069808213e-07,0.99,3.16987687142e-07,0.99
+EUR,Eastern Europe,Republic of Moldova,2005,7.69654449204e-06,0.97,4.08029051668e-05,0.96
+EUR,Eastern Europe,Romania,2005,0.000317690616706,0.97,0.00219868831308,0.97
+EUR,Eastern Europe,Russian Federation,2005,0.00100948618313,0.99,0.00101510712949,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2005,0.0,0.99,0.0,0.98
+AMR,Caribbean,Saint Lucia,2005,0.0,0.94,0.0,0.95
+AMR,Caribbean,Saint Vincent and the Grenadines,2005,0.0,0.97,0.0,0.99
+WPR,Polynesia,Samoa,2005,0.0,0.57,0.0,0.25
+EUR,Southern Europe,San Marino,2005,3.41997264022e-05,0.94,3.46140533056e-05,0.98
+EMR,Western Asia,Saudi Arabia,2005,7.27412919581e-07,0.97,9.14549104428e-07,0.97
+EUR,Southern Europe,Serbia,2005,1.66545295422e-05,0.96,3.28455284553e-05,0.89
+AFR,Eastern Africa,Seychelles,2005,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2005,3.09196023606e-05,0.96,3.22268772156e-05,0.95
+EUR,Eastern Europe,Slovakia,2005,1.85694469462e-07,0.98,5.57181700667e-07,0.99
+EUR,Southern Europe,Slovenia,2005,0.0,0.94,5.02280352802e-07,0.94
+SEAR,Southern Asia,Sri Lanka,2005,8.19403054632e-07,0.99,3.09688927795e-07,0.96
+AMR,South America,Suriname,2005,0.0,0.91,0.0,0.86
+EUR,Northern Europe,Sweden,2005,0.0,0.96,0.0,0.96
+EMR,Western Asia,Syrian Arab Republic,2005,2.20594236755e-07,0.81,2.65958801284e-06,0.82
+SEAR,South-Eastern Asia,Thailand,2005,5.79983259436e-06,0.96,5.79470654322e-06,0.96
+EUR,Southern Europe,TFYR Macedonia,2005,1.51745811081e-05,0.96,1.61888502973e-05,0.96
+WPR,Polynesia,Tonga,2005,0.0,0.81,0.0,0.84
+AMR,Caribbean,Trinidad and Tobago,2005,0.0,0.93,0.0,0.95
+EUR,Eastern Europe,Ukraine,2005,0.000475432260199,0.96,0.000670654321897,0.99
+EMR,Western Asia,United Arab Emirates,2005,9.59397409181e-06,0.92,2.51512217206e-06,0.94
+AMR,NORTHERN AMERICA,United States of America,2005,3.71446389278e-08,0.92,3.40679647038e-08,0.93
+AMR,South America,Uruguay,2005,0.0,0.95,0.0,0.95
+AMR,South America,Venezuela (Bolivarian Republic of),2005,3.07443800917e-05,0.76,3.64818153351e-06,0.8
+EUR,Southern Europe,Albania,2004,0.0,0.96,2.88734540671e-06,0.93
+EUR,Southern Europe,Andorra,2004,0.0,0.98,0.0,0.96
+AMR,Caribbean,Antigua and Barbuda,2004,0.0,0.97,0.0,0.99
+AMR,South America,Argentina,2004,1.54923547811e-07,0.99,2.08825596171e-07,0.97
+EUR,Western Asia,Armenia,2004,0.000242235573269,0.92,0.000109668622918,0.94
+WPR,Australia/New Zealand,Australia,2004,2.20159836041e-06,0.94,2.83756079221e-06,0.94
+EUR,Western Asia,Azerbaijan,2004,0.000684596577017,0.67,0.000126022213356,0.67
+AMR,Caribbean,Bahamas,2004,0.0,0.89,0.0,0.9
+EMR,Western Asia,Bahrain,2004,2.47527815938e-06,0.99,9.19117647059e-06,0.99
+AMR,Caribbean,Barbados,2004,0.0,0.98,0.0,0.9
+EUR,Eastern Europe,Belarus,2004,0.000463293862594,0.99,0.000166516033701,0.99
+EUR,Western Europe,Belgium,2004,3.6215861785e-06,0.82,5.56292483242e-06,0.82
+AMR,Central America,Belize,2004,0.0,0.97,0.0,0.96
+AMR,South America,Bolivia (Plurinational State of),2004,1.33812978521e-06,0.9,4.65358064655e-06,0.96
+EUR,Southern Europe,Bosnia and Herzegovina,2004,1.12392736815e-05,0.88,1.20503705489e-05,0.84
+AMR,South America,Brazil,2004,1.71398151135e-06,0.97,3.06599224277e-06,0.97
+WPR,South-Eastern Asia,Brunei Darussalam,2004,0.0,0.99,2.86073921501e-06,0.98
+EUR,Eastern Europe,Bulgaria,2004,6.12186383632e-05,0.95,3.22868300483e-05,0.96
+AMR,South America,Chile,2004,1.88523683602e-07,0.94,1.27151482554e-07,0.96
+AMR,South America,Colombia,2004,1.05326822107e-06,0.94,1.11500836849e-06,0.93
+AMR,Central America,Costa Rica,2004,0.0,0.88,0.0,0.89
+EUR,Southern Europe,Croatia,2004,4.56095141447e-07,0.96,4.55550772272e-07,0.95
+AMR,Caribbean,Cuba,2004,1.60132661013e-06,0.99,0.0,0.99
+EUR,Western Asia,Cyprus,2004,5.90650010336e-06,0.86,0.0,0.86
+EUR,Eastern Europe,Czech Republic,2004,3.03561758661e-06,0.97,2.74191258195e-06,0.97
+AMR,Caribbean,Dominica,2004,0.0,0.99,0.0,0.99
+AMR,South America,Ecuador,2004,5.84767184938e-06,0.99,7.07320009632e-06,0.99
+EMR,Northern Africa,Egypt,2004,2.44578277074e-07,0.96,3.61257524987e-06,0.97
+AMR,Central America,El Salvador,2004,1.68773807655e-07,0.93,5.08394439521e-07,0.9
+EUR,Northern Europe,Estonia,2004,1.61343551758e-05,0.96,3.49627428272e-05,0.95
+WPR,Melanesia,Fiji,2004,2.44391221467e-06,0.88,7.95954104062e-05,0.86
+EUR,Northern Europe,Finland,2004,0.0,0.97,0.0,0.97
+AMR,Caribbean,Grenada,2004,0.0,0.74,0.0,0.99
+AMR,Central America,Guatemala,2004,2.7955280869e-06,0.95,3.97666493019e-07,0.94
+AMR,South America,Guyana,2004,0.0,0.88,0.0,0.89
+AMR,Central America,Honduras,2004,1.48074659243e-07,0.92,1.50913782956e-07,0.95
+EUR,Eastern Europe,Hungary,2004,3.55829324488e-06,0.99,4.63443662507e-06,0.99
+EUR,Northern Europe,Iceland,2004,0.0,0.93,0.0,0.93
+EUR,Northern Europe,Ireland,2004,1.18938678616e-05,0.81,1.4352918468e-05,0.78
+EUR,Western Asia,Israel,2004,1.70014142085e-06,0.97,1.10223028425e-06,0.96
+EUR,Southern Europe,Italy,2004,6.22125774637e-06,0.86,2.45508775559e-05,0.84
+AMR,Caribbean,Jamaica,2004,0.0,0.86,0.0,0.78
+WPR,Eastern Asia,Japan,2004,2.20393793383e-05,0.98,2.208278785e-05,0.98
+EMR,Western Asia,Jordan,2004,0.00147864406386,0.98,1.18987653048e-06,0.91
+EUR,Central Asia,Kyrgyzstan,2004,1.37862578582e-06,0.99,9.89928467769e-07,0.99
+EUR,Northern Europe,Latvia,2004,2.30400453712e-05,0.98,0.000135114453748,0.98
+EMR,Western Asia,Lebanon,2004,3.1061768916e-05,0.58,1.62098199089e-06,0.53
+EUR,Northern Europe,Lithuania,2004,2.75411933333e-05,0.98,4.99114805213e-05,0.98
+EUR,Southern Europe,Malta,2004,0.0,0.94,1.01814849696e-05,0.9
+AMR,Central America,Mexico,2004,6.45680838576e-06,0.96,3.27444263841e-07,0.96
+WPR,Micronesia,Micronesia (Federated States of),2004,0.0,0.85,0.0,0.91
+EUR,Western Europe,Netherlands,2004,2.83017707064e-06,0.96,6.18527878907e-08,0.96
+WPR,Australia/New Zealand,New Zealand,2004,6.12928375642e-06,0.83,6.96482762052e-06,0.84
+AMR,Central America,Nicaragua,2004,1.13000734505e-06,0.84,9.54038253118e-07,0.93
+WPR,Polynesia,Niue,2004,0.0,0.99,0.0227272727273,0.85
+EUR,Northern Europe,Norway,2004,4.35802006432e-07,0.89,2.19252567996e-07,0.86
+EMR,Western Asia,Oman,2004,3.6761852634e-06,0.98,4.19273148071e-07,0.98
+AMR,Central America,Panama,2004,0.0,0.97,0.0,0.95
+AMR,South America,Paraguay,2004,1.75323559629e-07,0.91,1.96150108328e-06,0.91
+AMR,South America,Peru,2004,6.44955723918e-05,0.85,1.21762256225e-05,0.95
+EUR,Eastern Europe,Poland,2004,0.000126305048145,0.97,0.00027536180247,0.97
+EUR,Southern Europe,Portugal,2004,7.66103740023e-07,0.95,1.34578634296e-06,0.96
+WPR,Eastern Asia,Republic of Korea,2004,3.16987687142e-07,0.99,1.70056278e-07,0.96
+EUR,Eastern Europe,Republic of Moldova,2004,4.08029051668e-05,0.96,0.000121773190242,0.96
+EUR,Eastern Europe,Romania,2004,0.00219868831308,0.97,0.00554154049274,0.97
+EUR,Eastern Europe,Russian Federation,2004,0.00101510712949,0.98,0.000865847783784,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2004,0.0,0.98,0.0,0.98
+AMR,Caribbean,Saint Lucia,2004,0.0,0.95,0.0,0.9
+EUR,Southern Europe,San Marino,2004,3.46140533056e-05,0.98,0.0,0.91
+EMR,Western Asia,Saudi Arabia,2004,9.14549104428e-07,0.97,9.41865896277e-07,0.96
+EUR,Southern Europe,Serbia,2004,3.28455284553e-05,0.89,3.58204446267e-05,0.87
+AFR,Eastern Africa,Seychelles,2004,0.0,0.99,0.0,0.99
+WPR,South-Eastern Asia,Singapore,2004,3.22268772156e-05,0.95,2.06837385857e-05,0.93
+EUR,Eastern Europe,Slovakia,2004,5.57181700667e-07,0.99,1.85717230659e-07,0.99
+EUR,Southern Europe,Slovenia,2004,5.02280352802e-07,0.94,4.02353769552e-06,0.94
+SEAR,Southern Asia,Sri Lanka,2004,3.09688927795e-07,0.96,1.769264033e-06,0.99
+AMR,South America,Suriname,2004,0.0,0.86,0.0,0.69
+EUR,Northern Europe,Sweden,2004,0.0,0.96,0.0,0.95
+EMR,Western Asia,Syrian Arab Republic,2004,2.65958801284e-06,0.82,6.47236473625e-06,0.83
+SEAR,South-Eastern Asia,Thailand,2004,5.79470654322e-06,0.96,7.55971597067e-06,0.96
+EUR,Southern Europe,TFYR Macedonia,2004,1.61888502973e-05,0.96,2.55657654734e-05,0.96
+WPR,Polynesia,Tonga,2004,0.0,0.84,0.0,0.85
+AMR,Caribbean,Trinidad and Tobago,2004,0.0,0.95,0.0,0.88
+EUR,Eastern Europe,Ukraine,2004,0.000670654321897,0.99,0.000425339997225,0.99
+EMR,Western Asia,United Arab Emirates,2004,2.51512217206e-06,0.94,1.65480721496e-05,0.94
+AMR,NORTHERN AMERICA,United States of America,2004,3.40679647038e-08,0.93,2.40545298322e-08,0.93
+AMR,South America,Uruguay,2004,0.0,0.95,0.0,0.95
+AMR,South America,Venezuela (Bolivarian Republic of),2004,3.64818153351e-06,0.8,1.39224327131e-06,0.83
+EUR,Southern Europe,Albania,2003,2.88734540671e-06,0.93,3.84232383746e-06,0.96
+AMR,Caribbean,Antigua and Barbuda,2003,0.0,0.99,0.0,0.99
+AMR,South America,Argentina,2003,2.08825596171e-07,0.97,8.88374174968e-05,0.95
+EUR,Western Asia,Armenia,2003,0.000109668622918,0.94,0.000432521125605,0.91
+WPR,Australia/New Zealand,Australia,2003,2.83756079221e-06,0.94,1.2964791623e-05,0.94
+EMR,Western Asia,Bahrain,2003,9.19117647059e-06,0.99,0.0,0.99
+EUR,Eastern Europe,Belarus,2003,0.000166516033701,0.99,0.000526471127033,0.99
+EUR,Western Europe,Belgium,2003,5.56292483242e-06,0.82,7.71857310598e-07,0.82
+AMR,Central America,Belize,2003,0.0,0.96,0.0,0.88
+AMR,South America,Bolivia (Plurinational State of),2003,4.65358064655e-06,0.96,1.4907538592e-05,0.91
+EUR,Southern Europe,Bosnia and Herzegovina,2003,1.20503705489e-05,0.84,1.7330339911e-05,0.89
+AMR,South America,Brazil,2003,3.06599224277e-06,0.97,6.93747911783e-06,0.96
+EUR,Eastern Europe,Bulgaria,2003,3.22868300483e-05,0.96,0.000102298605181,0.92
+AMR,NORTHERN AMERICA,Canada,2003,3.48138833969e-07,0.95,5.11368848113e-07,0.95
+AMR,South America,Chile,2003,1.27151482554e-07,0.96,1.84630626168e-05,0.95
+AMR,South America,Colombia,2003,1.11500836849e-06,0.93,2.90095685873e-05,0.93
+EUR,Southern Europe,Croatia,2003,4.55550772272e-07,0.95,2.27439688681e-06,0.95
+AMR,Caribbean,Cuba,2003,0.0,0.99,0.0,0.98
+EUR,Western Asia,Cyprus,2003,0.0,0.86,0.0,0.86
+EUR,Eastern Europe,Czech Republic,2003,2.74191258195e-06,0.97,0.000308649219575,0.98
+AMR,Caribbean,Dominica,2003,0.0,0.99,0.0,0.99
+AMR,South America,Ecuador,2003,7.07320009632e-06,0.99,2.07312389937e-05,0.99
+EMR,Northern Africa,Egypt,2003,3.61257524987e-06,0.97,3.86412332138e-06,0.96
+EUR,Northern Europe,Estonia,2003,3.49627428272e-05,0.95,6.94273688474e-05,0.95
+WPR,Melanesia,Fiji,2003,7.95954104062e-05,0.86,7.7235224166e-05,0.85
+EUR,Northern Europe,Finland,2003,0.0,0.97,7.69137585254e-07,0.96
+AMR,Caribbean,Grenada,2003,0.0,0.99,0.0,0.96
+AMR,Central America,Guatemala,2003,3.97666493019e-07,0.94,1.54821340248e-06,0.92
+AMR,South America,Guyana,2003,0.0,0.89,0.0,0.93
+AMR,Central America,Honduras,2003,1.50913782956e-07,0.95,7.69349130635e-07,0.97
+EUR,Eastern Europe,Hungary,2003,4.63443662507e-06,0.99,4.130565199e-06,0.99
+EUR,Northern Europe,Ireland,2003,1.4352918468e-05,0.78,7.81208655792e-06,0.73
+EUR,Western Asia,Israel,2003,1.10223028425e-06,0.96,1.6025076039e-07,0.95
+EUR,Southern Europe,Italy,2003,2.45508775559e-05,0.84,0.000101117530831,0.81
+AMR,Caribbean,Jamaica,2003,0.0,0.78,0.0,0.86
+WPR,Eastern Asia,Japan,2003,2.208278785e-05,0.98,2.02852272456e-05,0.98
+EMR,Western Asia,Jordan,2003,1.18987653048e-06,0.91,2.02472595334e-07,0.9
+EUR,Central Asia,Kyrgyzstan,2003,9.89928467769e-07,0.99,5.44956960333e-05,0.98
+EUR,Northern Europe,Latvia,2003,0.000135114453748,0.98,0.0011127753342,0.98
+EMR,Western Asia,Lebanon,2003,1.62098199089e-06,0.53,3.12248072578e-06,0.59
+EUR,Northern Europe,Lithuania,2003,4.99114805213e-05,0.98,8.06954373576e-05,0.98
+EUR,Southern Europe,Malta,2003,1.01814849696e-05,0.9,5.11312795603e-06,0.65
+WPR,Micronesia,Marshall Islands,2003,0.0,0.9,0.0,0.8
+AMR,Central America,Mexico,2003,3.27444263841e-07,0.96,3.49030056366e-05,0.96
+EUR,Western Europe,Netherlands,2003,6.18527878907e-08,0.96,1.86608594072e-07,0.95
+WPR,Australia/New Zealand,New Zealand,2003,6.96482762052e-06,0.84,8.32975742737e-06,0.84
+AMR,Central America,Nicaragua,2003,9.54038253118e-07,0.93,2.571668336e-05,0.98
+WPR,Polynesia,Niue,2003,0.0227272727273,0.85,0.0,0.99
+EUR,Northern Europe,Norway,2003,2.19252567996e-07,0.86,2.20398303815e-07,0.87
+EMR,Western Asia,Oman,2003,4.19273148071e-07,0.98,1.29132231405e-06,0.99
+AMR,Central America,Panama,2003,0.0,0.95,4.03850251055e-05,0.95
+AMR,South America,Paraguay,2003,1.96150108328e-06,0.91,1.8153366905e-07,0.86
+EUR,Eastern Europe,Poland,2003,0.00027536180247,0.97,0.00105365205194,0.98
+EUR,Southern Europe,Portugal,2003,1.34578634296e-06,0.96,2.79867940934e-06,0.93
+EMR,Western Asia,Qatar,2003,5.23818788632e-05,0.93,3.31026655527e-05,0.99
+WPR,Eastern Asia,Republic of Korea,2003,1.70056278e-07,0.96,2.56577031481e-07,0.97
+EUR,Eastern Europe,Republic of Moldova,2003,0.000121773190242,0.96,0.00175044593155,0.94
+EUR,Eastern Europe,Romania,2003,0.00554154049274,0.97,0.000507001879463,0.98
+EUR,Eastern Europe,Russian Federation,2003,0.000865847783784,0.98,0.00235093341723,0.98
+AMR,Caribbean,Saint Kitts and Nevis,2003,0.0,0.98,0.0,0.99
+AMR,Caribbean,Saint Lucia,2003,0.0,0.9,0.0,0.98
+EMR,Western Asia,Saudi Arabia,2003,9.41865896277e-07,0.96,5.29378289314e-07,0.97
+EUR,Southern Europe,Serbia,2003,3.58204446267e-05,0.87,6.71648596887e-05,0.92
+AFR,Eastern Africa,Seychelles,2003,0.0,0.99,0.0,0.98
+WPR,South-Eastern Asia,Singapore,2003,2.06837385857e-05,0.93,3.67495950291e-05,0.94
+EUR,Eastern Europe,Slovakia,2003,1.85717230659e-07,0.99,1.29979129066e-06,0.99
+EUR,Southern Europe,Slovenia,2003,4.02353769552e-06,0.94,1.50916060487e-06,0.93
+EUR,Southern Europe,Spain,2003,2.70745777484e-06,0.98,3.41978534749e-06,0.97
+AMR,South America,Suriname,2003,0.0,0.69,0.0,0.73
+EUR,Northern Europe,Sweden,2003,0.0,0.95,1.12209517611e-07,0.95
+EMR,Western Asia,Syrian Arab Republic,2003,6.47236473625e-06,0.83,5.88321119787e-08,0.84
+SEAR,South-Eastern Asia,Thailand,2003,7.55971597067e-06,0.96,1.03996668365e-05,0.94
+EUR,Southern Europe,TFYR Macedonia,2003,2.55657654734e-05,0.96,3.00683685692e-05,0.98
+AMR,Caribbean,Trinidad and Tobago,2003,0.0,0.88,0.0,0.87
+EUR,Eastern Europe,Ukraine,2003,0.000425339997225,0.99,0.00340206282437,0.99
+EMR,Western Asia,United Arab Emirates,2003,1.65480721496e-05,0.94,8.54433922795e-06,0.94
+AMR,NORTHERN AMERICA,United States of America,2003,2.40545298322e-08,0.93,6.2397985793e-08,0.91
+AMR,South America,Uruguay,2003,0.0,0.95,0.0,0.95
+AMR,South America,Venezuela (Bolivarian Republic of),2003,1.39224327131e-06,0.83,0.000144178109968,0.83
+EUR,Southern Europe,Albania,2002,3.84232383746e-06,0.96,3.20093211143e-06,0.95
+AMR,Caribbean,Antigua and Barbuda,2002,0.0,0.99,0.0,0.97
+AMR,South America,Argentina,2002,8.88374174968e-05,0.95,9.37244639532e-05,0.89
+WPR,Australia/New Zealand,Australia,2002,1.2964791623e-05,0.94,1.35690269868e-05,0.92
+EMR,Western Asia,Bahrain,2002,0.0,0.99,1.4390766884e-06,0.98
+EUR,Eastern Europe,Belarus,2002,0.000526471127033,0.99,0.000693218649472,0.99
+EUR,Western Europe,Belgium,2002,7.71857310598e-07,0.82,2.90942099613e-07,0.82
+AMR,Central America,Belize,2002,0.0,0.88,2.35303345229e-05,0.94
+AMR,South America,Bolivia (Plurinational State of),2002,1.4907538592e-05,0.91,6.47334511874e-05,0.88
+AMR,South America,Brazil,2002,6.93747911783e-06,0.96,2.1124384456e-05,0.99
+EUR,Eastern Europe,Bulgaria,2002,0.000102298605181,0.92,0.00020858566317,0.9
+AMR,South America,Chile,2002,1.84630626168e-05,0.95,2.87138911424e-05,0.96
+AMR,South America,Colombia,2002,2.90095685873e-05,0.93,1.70777900657e-06,0.93
+EUR,Southern Europe,Croatia,2002,2.27439688681e-06,0.95,6.80509747168e-07,0.94
+AMR,Caribbean,Cuba,2002,0.0,0.98,0.0,0.96
+EUR,Eastern Europe,Czech Republic,2002,0.000308649219575,0.98,8.72683824893e-05,0.97
+EUR,Northern Europe,Denmark,2002,0.0,0.95,0.0,0.94
+AMR,Caribbean,Dominica,2002,0.0,0.99,0.0,0.99
+AMR,South America,Ecuador,2002,2.07312389937e-05,0.99,3.88243761063e-05,0.99
+EMR,Northern Africa,Egypt,2002,3.86412332138e-06,0.96,1.72413916964e-07,0.99
+EUR,Northern Europe,Estonia,2002,6.94273688474e-05,0.95,0.000196874438656,0.95
+WPR,Melanesia,Fiji,2002,7.7235224166e-05,0.85,0.0,0.83
+EUR,Northern Europe,Finland,2002,7.69137585254e-07,0.96,0.0,0.96
+EUR,Southern Europe,Greece,2002,1.27139923843e-06,0.92,1.27414968711e-06,0.91
+AMR,Central America,Guatemala,2002,1.54821340248e-06,0.92,5.17670516076e-06,0.91
+AMR,South America,Guyana,2002,0.0,0.93,0.0,0.92
+AMR,Central America,Honduras,2002,7.69349130635e-07,0.97,1.41258455888e-06,0.99
+EUR,Eastern Europe,Hungary,2002,4.130565199e-06,0.99,6.37506154386e-06,0.99
+EUR,Northern Europe,Ireland,2002,7.81208655792e-06,0.73,1.46090540253e-05,0.73
+EUR,Western Asia,Israel,2002,1.6025076039e-07,0.95,8.15663346373e-07,0.95
+AMR,Caribbean,Jamaica,2002,0.0,0.86,0.0,0.85
+WPR,Eastern Asia,Japan,2002,2.02852272456e-05,0.98,2.4790770816e-05,0.98
+EMR,Western Asia,Jordan,2002,2.02472595334e-07,0.9,4.12351579203e-07,0.87
+EUR,Central Asia,Kyrgyzstan,2002,5.44956960333e-05,0.98,0.000465759289677,0.99
+EUR,Northern Europe,Latvia,2002,0.0011127753342,0.98,0.00015265548046,0.98
+EMR,Western Asia,Lebanon,2002,3.12248072578e-06,0.59,2.9762967725e-07,0.65
+EMR,Northern Africa,Libya,2002,3.9323419724e-05,0.91,4.78971316987e-06,0.93
+EUR,Northern Europe,Lithuania,2002,8.06954373576e-05,0.98,0.000132411272883,0.97
+EUR,Southern Europe,Malta,2002,5.11312795603e-06,0.65,0.0,0.7
+WPR,Micronesia,Marshall Islands,2002,0.0,0.8,0.0,0.64
+AMR,Central America,Mexico,2002,3.49030056366e-05,0.96,4.64602882054e-05,0.95
+WPR,Australia/New Zealand,New Zealand,2002,8.32975742737e-06,0.84,6.65487559222e-06,0.85
+AMR,Central America,Nicaragua,2002,2.571668336e-05,0.98,4.29348625202e-05,0.99
+WPR,Polynesia,Niue,2002,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2002,2.20398303815e-07,0.87,0.0,0.9
+EMR,Western Asia,Oman,2002,1.29132231405e-06,0.99,2.55219907153e-05,0.99
+AMR,Central America,Panama,2002,4.03850251055e-05,0.95,0.000104312107007,0.95
+AMR,South America,Paraguay,2002,1.8153366905e-07,0.86,1.66462287969e-06,0.9
+EUR,Eastern Europe,Poland,2002,0.00105365205194,0.98,0.0021946086131,0.97
+EMR,Western Asia,Qatar,2002,3.31026655527e-05,0.99,2.76999283061e-05,0.92
+WPR,Eastern Asia,Republic of Korea,2002,2.56577031481e-07,0.97,2.81766967103e-06,0.96
+EUR,Eastern Europe,Russian Federation,2002,0.00235093341723,0.98,0.00394258957666,0.97
+AMR,Caribbean,Saint Kitts and Nevis,2002,0.0,0.99,0.0,0.9
+AMR,Caribbean,Saint Lucia,2002,0.0,0.98,0.0,0.89
+AMR,Caribbean,Saint Vincent and the Grenadines,2002,0.0,0.99,0.0,0.98
+EMR,Western Asia,Saudi Arabia,2002,5.29378289314e-07,0.97,1.72664956375e-06,0.94
+EUR,Southern Europe,Serbia,2002,6.71648596887e-05,0.92,0.000142037886715,0.9
+AFR,Eastern Africa,Seychelles,2002,0.0,0.98,0.0,0.95
+WPR,South-Eastern Asia,Singapore,2002,3.67495950291e-05,0.94,6.01505254472e-05,0.95
+EUR,Eastern Europe,Slovakia,2002,1.29979129066e-06,0.99,3.71317918689e-07,0.99
+EUR,Southern Europe,Slovenia,2002,1.50916060487e-06,0.93,4.02355793169e-06,0.94
+AMR,South America,Suriname,2002,0.0,0.73,0.0,0.82
+EUR,Northern Europe,Sweden,2002,1.12209517611e-07,0.95,3.37507931436e-07,0.94
+EMR,Western Asia,Syrian Arab Republic,2002,5.88321119787e-08,0.84,6.5890318975e-07,0.8
+SEAR,South-Eastern Asia,Thailand,2002,1.03996668365e-05,0.94,1.38610367204e-05,0.94
+AMR,Caribbean,Trinidad and Tobago,2002,0.0,0.87,0.0,0.91
+EUR,Eastern Europe,Ukraine,2002,0.00340206282437,0.99,0.0016429652819,0.99
+EMR,Western Asia,United Arab Emirates,2002,8.54433922795e-06,0.94,1.83351098708e-05,0.94
+AMR,NORTHERN AMERICA,United States of America,2002,6.2397985793e-08,0.91,8.0476927265e-08,0.91
+AMR,South America,Uruguay,2002,0.0,0.95,3.00561147663e-07,0.94
+AMR,South America,Venezuela (Bolivarian Republic of),2002,0.000144178109968,0.83,0.000361424237637,0.98
+WPR,Australia/New Zealand,Australia,2001,1.35690269868e-05,0.92,1.63812165539e-05,0.91
+EMR,Western Asia,Bahrain,2001,1.4390766884e-06,0.98,2.99913025223e-06,0.98
+AMR,Caribbean,Barbados,2001,0.0,0.93,3.70589979247e-06,0.94
+EUR,Eastern Europe,Belarus,2001,0.000693218649472,0.99,0.00161112372715,0.98
+AMR,Central America,Belize,2001,2.35303345229e-05,0.94,3.23480651814e-05,0.96
+AMR,South America,Bolivia (Plurinational State of),2001,6.47334511874e-05,0.88,5.20414268944e-05,0.84
+AMR,South America,Brazil,2001,2.1124384456e-05,0.99,4.99526584644e-05,0.99
+WPR,South-Eastern Asia,Brunei Darussalam,2001,2.96674281307e-06,0.99,3.02526092876e-06,0.99
+EUR,Eastern Europe,Bulgaria,2001,0.00020858566317,0.9,0.00355589831148,0.89
+AMR,South America,Chile,2001,2.87138911424e-05,0.96,4.89769874077e-05,0.97
+AMR,South America,Colombia,2001,1.70777900657e-06,0.93,3.88575773266e-06,0.88
+AMR,Central America,Costa Rica,2001,1.77642113691e-05,0.82,2.1908316244e-05,0.82
+EUR,Southern Europe,Croatia,2001,6.80509747168e-07,0.94,1.80665617301e-06,0.93
+AMR,Caribbean,Cuba,2001,0.0,0.96,0.0,0.94
+EUR,Eastern Europe,Czech Republic,2001,8.72683824893e-05,0.97,7.23959150386e-05,0.97
+EUR,Northern Europe,Denmark,2001,0.0,0.94,0.0,0.99
+AMR,South America,Ecuador,2001,3.88243761063e-05,0.99,4.26017135708e-05,0.99
+EMR,Northern Africa,Egypt,2001,1.72413916964e-07,0.99,3.51211408634e-07,0.97
+AMR,Central America,El Salvador,2001,4.44844424217e-06,0.95,5.12746393569e-05,0.97
+EUR,Northern Europe,Estonia,2001,0.000196874438656,0.95,0.00026444627095,0.93
+EUR,Southern Europe,Greece,2001,1.27414968711e-06,0.91,1.09548723164e-06,0.89
+AMR,South America,Guyana,2001,0.0,0.92,0.0,0.86
+AMR,Central America,Honduras,2001,1.41258455888e-06,0.99,3.21956470204e-05,0.98
+EUR,Eastern Europe,Hungary,2001,6.37506154386e-06,0.99,1.04654586072e-05,0.99
+EUR,Northern Europe,Iceland,2001,0.0,0.88,0.0,0.91
+EUR,Western Asia,Israel,2001,8.15663346373e-07,0.95,8.9794818839e-06,0.95
+AMR,Caribbean,Jamaica,2001,0.0,0.85,0.0,0.88
+WPR,Eastern Asia,Japan,2001,2.4790770816e-05,0.98,2.48181059537e-05,0.96
+EMR,Western Asia,Jordan,2001,4.12351579203e-07,0.87,3.46094792217e-05,0.83
+EUR,Northern Europe,Latvia,2001,0.00015265548046,0.98,2.61440113347e-05,0.97
+EMR,Western Asia,Lebanon,2001,2.9762967725e-07,0.65,1.54541352175e-06,0.71
+EUR,Northern Europe,Lithuania,2001,0.000132411272883,0.97,0.00037402800047,0.97
+EUR,Southern Europe,Malta,2001,0.0,0.7,1.54966682163e-05,0.74
+WPR,Micronesia,Marshall Islands,2001,0.0,0.64,0.0,0.94
+AMR,Central America,Mexico,2001,4.64602882054e-05,0.95,0.000114299787596,0.96
+WPR,Australia/New Zealand,New Zealand,2001,6.65487559222e-06,0.85,6.73884138582e-06,0.85
+AMR,Central America,Nicaragua,2001,4.29348625202e-05,0.99,6.48525201968e-05,0.86
+WPR,Polynesia,Niue,2001,0.0,0.99,0.0,0.99
+EUR,Northern Europe,Norway,2001,0.0,0.9,8.90557199376e-07,0.88
+EMR,Western Asia,Oman,2001,2.55219907153e-05,0.99,1.33964454765e-06,0.99
+AMR,Central America,Panama,2001,0.000104312107007,0.95,0.000191498142798,0.97
+AMR,South America,Paraguay,2001,1.66462287969e-06,0.9,1.81039847625e-05,0.92
+EUR,Eastern Europe,Poland,2001,0.0021946086131,0.97,0.00119993317104,0.97
+EMR,Western Asia,Qatar,2001,2.76999283061e-05,0.92,2.69609908164e-05,0.91
+WPR,Eastern Asia,Republic of Korea,2001,2.81766967103e-06,0.96,3.31123892926e-06,0.95
+EUR,Eastern Europe,Russian Federation,2001,0.00394258957666,0.97,0.00312414639386,0.97
+AMR,Caribbean,Saint Kitts and Nevis,2001,0.0,0.9,0.0,0.99
+EUR,Southern Europe,Serbia,2001,0.000142037886715,0.9,0.000231208741973,0.89
+WPR,South-Eastern Asia,Singapore,2001,6.01505254472e-05,0.95,7.96288072523e-05,0.96
+EUR,Eastern Europe,Slovakia,2001,3.71317918689e-07,0.99,2.04230542863e-06,0.98
+SEAR,Southern Asia,Sri Lanka,2001,5.49831957608e-06,0.99,1.54388766886e-06,0.99
+AMR,South America,Suriname,2001,0.0,0.82,2.08008320333e-06,0.84
+EUR,Northern Europe,Sweden,2001,3.37507931436e-07,0.94,1.12710599756e-07,0.91
+EMR,Western Asia,Syrian Arab Republic,2001,6.5890318975e-07,0.8,1.22293866045e-07,0.84
+SEAR,South-Eastern Asia,Thailand,2001,1.38610367204e-05,0.94,1.81199528116e-05,0.94
+EMR,Western Asia,United Arab Emirates,2001,1.83351098708e-05,0.94,1.70484536725e-05,0.94
+AMR,NORTHERN AMERICA,United States of America,2001,8.0476927265e-08,0.91,6.22137328756e-07,0.91
+AMR,South America,Uruguay,2001,3.00561147663e-07,0.94,6.02184726187e-07,0.89
+AMR,South America,Venezuela (Bolivarian Republic of),2001,0.000361424237637,0.98,0.000568879005681,0.84
+WPR,Australia/New Zealand,Australia,2000,1.63812165539e-05,0.91,2.0045549412e-05,0.88
+EMR,Western Asia,Bahrain,2000,2.99913025223e-06,0.98,6.24122327976e-06,0.94
+EUR,Eastern Europe,Belarus,2000,0.00161112372715,0.98,0.00444196352718,0.98
+AMR,Central America,Belize,2000,3.23480651814e-05,0.96,4.60212534516e-05,0.82
+EUR,Southern Europe,Bosnia and Herzegovina,2000,3.79658728987e-05,0.8,9.75058067482e-05,0.83
+WPR,South-Eastern Asia,Brunei Darussalam,2000,3.02526092876e-06,0.99,9.26469225781e-06,0.94
+EUR,Eastern Europe,Bulgaria,2000,0.00355589831148,0.89,0.000522549595721,0.96
+AMR,South America,Chile,2000,4.89769874077e-05,0.97,0.00010733968471,0.94
+AMR,South America,Colombia,2000,3.88575773266e-06,0.88,2.44605125959e-05,0.79
+AMR,Central America,Costa Rica,2000,2.1908316244e-05,0.82,0.000348426623847,0.88
+EUR,Southern Europe,Croatia,2000,1.80665617301e-06,0.93,3.59042254785e-06,0.92
+AMR,Caribbean,Cuba,2000,0.0,0.94,0.0,0.96
+EUR,Eastern Europe,Czech Republic,2000,7.23959150386e-05,0.97,9.47421971435e-05,0.97
+AMR,South America,Ecuador,2000,4.26017135708e-05,0.99,1.99214594445e-05,0.99
+EMR,Northern Africa,Egypt,2000,3.51211408634e-07,0.97,8.94016170965e-08,0.95
+AMR,Central America,El Salvador,2000,5.12746393569e-05,0.97,3.35892348234e-05,0.94
+EUR,Northern Europe,Estonia,2000,0.00026444627095,0.93,0.00016953740508,0.92
+EUR,Southern Europe,Greece,2000,1.09548723164e-06,0.89,0.000131888396204,0.88
+AMR,Central America,Honduras,2000,3.21956470204e-05,0.98,0.00018120771343,0.98
+EUR,Eastern Europe,Hungary,2000,1.04654586072e-05,0.99,9.4605441666e-06,0.99
+EUR,Western Asia,Israel,2000,8.9794818839e-06,0.95,6.78971900748e-07,0.94
+EUR,Southern Europe,Italy,2000,4.55841313327e-05,0.74,1.97947760376e-05,0.7
+AMR,Caribbean,Jamaica,2000,0.0,0.88,1.16280421865e-06,0.82
+EMR,Western Asia,Kuwait,2000,4.50901024634e-05,0.99,7.87847718749e-05,0.96
+EUR,Northern Europe,Latvia,2000,2.61440113347e-05,0.97,3.80034411907e-05,0.97
+EMR,Western Asia,Lebanon,2000,1.54541352175e-06,0.71,1.58395265882e-06,0.77
+EUR,Southern Europe,Malta,2000,1.54966682163e-05,0.74,2.07975874799e-05,0.67
+WPR,Micronesia,Marshall Islands,2000,0.0,0.94,0.0,0.93
+AMR,Central America,Mexico,2000,0.000114299787596,0.96,0.000169651248186,0.94
+EUR,Western Europe,Netherlands,2000,7.55000937459e-07,0.96,1.89792095412e-07,0.96
+WPR,Australia/New Zealand,New Zealand,2000,6.73884138582e-06,0.85,9.69223233067e-06,0.83
+AMR,Central America,Nicaragua,2000,6.48525201968e-05,0.86,7.93993930896e-05,0.87
+WPR,Polynesia,Niue,2000,0.0,0.99,0.0,0.99
+EMR,Western Asia,Oman,2000,1.33964454765e-06,0.99,2.24670632852e-06,0.99
+WPR,Micronesia,Palau,2000,0.0,0.83,0.0,0.96
+AMR,Central America,Panama,2000,0.000191498142798,0.97,0.000316814749225,0.9
+EUR,Eastern Europe,Poland,2000,0.00119993317104,0.97,0.000803783217916,0.97
+EUR,Southern Europe,Portugal,2000,5.64282475916e-06,0.87,5.56771662081e-06,0.92
+EUR,Southern Europe,Serbia,2000,0.000231208741973,0.89,0.000156697511041,0.84
+WPR,South-Eastern Asia,Singapore,2000,7.96288072523e-05,0.96,0.000113011494734,0.97
+EUR,Eastern Europe,Slovakia,2000,2.04230542863e-06,0.98,1.13280568111e-05,0.99
+EUR,Southern Europe,Spain,2000,8.4662992211e-06,0.94,1.32202465848e-05,0.95
+SEAR,Southern Asia,Sri Lanka,2000,1.54388766886e-06,0.99,5.89153996285e-06,0.95
+AMR,South America,Suriname,2000,2.08008320333e-06,0.84,1.68194432764e-05,0.85
+EMR,Western Asia,Syrian Arab Republic,2000,1.22293866045e-07,0.84,4.0569907021e-05,0.86
+SEAR,South-Eastern Asia,Thailand,2000,1.81199528116e-05,0.94,1.38122527591e-05,0.96
+EUR,Southern Europe,TFYR Macedonia,2000,4.32394821202e-05,0.97,6.0019206146e-05,0.98
+EMR,Western Asia,United Arab Emirates,2000,1.70484536725e-05,0.94,3.18980372306e-05,0.96
+AMR,NORTHERN AMERICA,United States of America,2000,6.22137328756e-07,0.91,9.54489101665e-07,0.92
+AMR,South America,Uruguay,2000,6.02184726187e-07,0.89,9.06530646779e-07,0.99
+AMR,South America,Venezuela (Bolivarian Republic of),2000,0.000568879005681,0.84,0.000474163480879,0.84
+AMR,South America,Argentina,1999,0.000295540963298,0.97,0.000823805143153,0.95
+AMR,Central America,Belize,1999,4.60212534516e-05,0.82,1.73694037952e-05,0.84
+AMR,South America,Chile,1999,0.00010733968471,0.94,0.000309089224748,0.98
+AMR,South America,Colombia,1999,2.44605125959e-05,0.79,4.85802387008e-05,0.78
+AMR,Caribbean,Cuba,1999,0.0,0.96,0.0,0.99
+AMR,South America,Ecuador,1999,1.99214594445e-05,0.99,8.28682271872e-05,0.89
+AMR,Central America,El Salvador,1999,3.35892348234e-05,0.94,9.27462657425e-05,0.99
+AMR,Central America,Honduras,1999,0.00018120771343,0.98,6.66590930354e-05,0.98
+AMR,Caribbean,Jamaica,1999,1.16280421865e-06,0.82,0.0,0.88
+AMR,Central America,Mexico,1999,0.000169651248186,0.94,0.00052037341304,0.96
+AMR,Central America,Nicaragua,1999,7.93993930896e-05,0.87,5.23653747821e-05,0.91
+AMR,Central America,Panama,1999,0.000316814749225,0.9,0.000612424348591,0.96
+AMR,Caribbean,Saint Lucia,1999,0.0,0.95,0.0,0.9
+AMR,South America,Suriname,1999,1.68194432764e-05,0.85,0.000191852657159,0.82
+AMR,NORTHERN AMERICA,United States of America,1999,9.54489101665e-07,0.92,1.31715071352e-06,0.92
+AMR,South America,Uruguay,1999,9.06530646779e-07,0.99,9.11264135985e-07,0.96
+AMR,South America,Venezuela (Bolivarian Republic of),1999,0.000474163480879,0.84,0.00128801441755,0.92

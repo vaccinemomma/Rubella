@@ -1,0 +1,47 @@
+[1] "rubella.csv" "AR"         
+[1] "AR1 model, global data"
+
+Call:
+lm(formula = incidence ~ coverage + prev_incidence + prev_coverage)
+
+Residuals:
+       Min         1Q     Median         3Q        Max 
+-0.0024025 -0.0000642 -0.0000538 -0.0000316  0.0225180 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     2.068e-05  1.984e-04   0.104 0.917003    
+coverage       -1.088e-03  3.586e-04  -3.033 0.002462 ** 
+prev_incidence  1.101e-01  2.467e-02   4.464 8.64e-06 ***
+prev_coverage   1.124e-03  3.308e-04   3.399 0.000694 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.0006447 on 1528 degrees of freedom
+Multiple R-squared:  0.01928,	Adjusted R-squared:  0.01735 
+F-statistic: 10.01 on 3 and 1528 DF,  p-value: 1.555e-06
+
+[1] "AR1 model, US data"
+
+Call:
+lm(formula = incidence ~ coverage + prev_incidence + prev_coverage)
+
+Residuals:
+       Min         1Q     Median         3Q        Max 
+-2.672e-07 -8.167e-09  7.417e-09  3.156e-08  9.966e-08 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    -5.573e-06  3.569e-06  -1.561    0.142    
+coverage        3.040e-06  2.959e-06   1.027    0.323    
+prev_incidence  6.424e-01  5.729e-02  11.213 4.69e-08 ***
+prev_coverage   3.027e-06  2.904e-06   1.042    0.316    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 8.676e-08 on 13 degrees of freedom
+Multiple R-squared:  0.9083,	Adjusted R-squared:  0.8871 
+F-statistic: 42.91 on 3 and 13 DF,  p-value: 5.256e-07
+
+[1] -1793.312
+[1] "AR hierarchical region DIC:-18170"
